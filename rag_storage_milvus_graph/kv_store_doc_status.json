@@ -1,0 +1,43 @@
+{
+  "doc-15fcfa9656d45d404130e7732797f68e": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-27ef6792c88d7337aa1c40b9a5b1ec44"
+    ],
+    "content_summary": "Artificial Intelligence (AI) grew from deep mathematical ideas into practical systems that now shape how we interact with the digital world — recommending what to watch, helping us find the right documents, and powering chatbots that feel genuinely c...",
+    "content_length": 4942,
+    "created_at": "2025-12-17T09:27:11.404025+00:00",
+    "updated_at": "2025-12-17T14:58:50+00:00",
+    "file_path": "input.txt",
+    "track_id": "insert_20251217_145711_330d3504",
+    "metadata": {
+      "processing_start_time": 1765963631,
+      "processing_end_time": 1765963730
+    },
+    "multimodal_processed": true
+  },
+  "doc-9f9111cbff0274c9ce56a9af3824b665": {
+    "status": "processed",
+    "chunks_count": 6,
+    "chunks_list": [
+      "chunk-a18c979afc2ea88cc9a1013bb733b190",
+      "chunk-394839d43bb1dd2540deb79222c7b815",
+      "chunk-d28b4fd9619d29d7160b92b9a8a8b1d6",
+      "chunk-a4203674dfbeed791037186dad50c1af",
+      "chunk-ccfdee4953a374c934a7d9c0b5f8f806",
+      "chunk-8752bd28670ab35d860b28e192c95410"
+    ],
+    "content_summary": "Overview \n\nGoogleAgentDevelopmentKit ADK)isaflexible,modularframework for developing, deploying, and \n\norchestrating AI agents. While optimized for Gemini and the Google ecosystem, ADK is deploymentagnostic, and built for compatibility with other fra...",
+    "content_length": 845,
+    "created_at": "2025-12-17T09:50:39.197382+00:00",
+    "updated_at": "2025-12-17T15:27:14+00:00",
+    "file_path": "doc.pdf",
+    "track_id": "insert_20251217_152039_d725062d",
+    "metadata": {
+      "processing_start_time": 1765965039,
+      "processing_end_time": 1765965104
+    },
+    "multimodal_processed": true
+  }
+}

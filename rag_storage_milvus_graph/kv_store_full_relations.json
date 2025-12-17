@@ -1,0 +1,436 @@
+{
+  "doc-15fcfa9656d45d404130e7732797f68e": {
+    "relation_pairs": [
+      [
+        "Artificial Intelligence",
+        "Intelligent Decision-Making"
+      ],
+      [
+        "FAISS",
+        "Vector Databases"
+      ],
+      [
+        "Artificial Intelligence",
+        "Dartmouth Workshop"
+      ],
+      [
+        "Approximate Nearest Neighbor Search",
+        "Vector Databases"
+      ],
+      [
+        "Artificial Intelligence",
+        "Geoffrey Hinton"
+      ],
+      [
+        "Language Models",
+        "RAG"
+      ],
+      [
+        "Artificial Intelligence",
+        "John McCarthy"
+      ],
+      [
+        "Milvus",
+        "Vector Databases"
+      ],
+      [
+        "Alan Turing",
+        "Artificial Intelligence"
+      ],
+      [
+        "Artificial Intelligence",
+        "Marvin Minsky"
+      ],
+      [
+        "Pinecone",
+        "Vector Databases"
+      ],
+      [
+        "Artificial Intelligence",
+        "Automation"
+      ],
+      [
+        "Artificial Intelligence",
+        "Personalization"
+      ]
+    ],
+    "count": 13,
+    "create_time": 1765963730,
+    "update_time": 1765963730,
+    "_id": "doc-15fcfa9656d45d404130e7732797f68e"
+  },
+  "doc-763aa8a7a4f947bb50ac17ea2a8b2710": {
+    "relation_pairs": [
+      [
+        "Illustrative Fruit Chart (image)",
+        "Peach"
+      ],
+      [
+        "Illustrative Fruit Chart (image)",
+        "Mango"
+      ],
+      [
+        "Apricot",
+        "Illustrative Fruit Chart (image)"
+      ],
+      [
+        "Cherry",
+        "Illustrative Fruit Chart (image)"
+      ],
+      [
+        "Fruits Image",
+        "Kiwis"
+      ],
+      [
+        "Illustrative Fruit Chart (image)",
+        "Visual Layout"
+      ],
+      [
+        "Illustrative Fruit Chart (image)",
+        "Image Content Analysis"
+      ],
+      [
+        "Bananas",
+        "Illustrative Fruit Chart (image)"
+      ],
+      [
+        "Fruits Image",
+        "Illustrative Fruit Chart (image)"
+      ],
+      [
+        "Apple",
+        "Fruits Image"
+      ],
+      [
+        "Illustrative Fruit Chart (image)",
+        "Kiwis"
+      ],
+      [
+        "Illustrative Fruit Chart (image)",
+        "Lime"
+      ],
+      [
+        "Grapes",
+        "Illustrative Fruit Chart (image)"
+      ],
+      [
+        "Grapefruit",
+        "Illustrative Fruit Chart (image)"
+      ],
+      [
+        "Illustrative Fruit Chart (image)",
+        "Orange"
+      ],
+      [
+        "Cherry",
+        "Fruits Image"
+      ],
+      [
+        "Apple",
+        "Illustrative Fruit Chart (image)"
+      ],
+      [
+        "Fruits Image",
+        "Peach"
+      ],
+      [
+        "Bananas",
+        "Fruits Image"
+      ],
+      [
+        "Guava",
+        "Illustrative Fruit Chart (image)"
+      ],
+      [
+        "Fruits Image",
+        "Mango"
+      ],
+      [
+        "Fruits Image",
+        "Image Content Analysis"
+      ]
+    ],
+    "count": 22,
+    "update_time": 1765964726,
+    "_id": "doc-763aa8a7a4f947bb50ac17ea2a8b2710"
+  },
+  "doc-9f9111cbff0274c9ce56a9af3824b665": {
+    "relation_pairs": [
+      [
+        "Agent Functionality and Characteristics Table (table)",
+        "Execution Patterns"
+      ],
+      [
+        "Core Components of Google ADK (table)",
+        "Large Language Model"
+      ],
+      [
+        "Sequential Agent",
+        "Workflow Agents"
+      ],
+      [
+        "Core Components of Google ADK (table)",
+        "Primary Use"
+      ],
+      [
+        "Agent Functionality and Characteristics Table (table)",
+        "Core Engine"
+      ],
+      [
+        "Key Features of GoogleAgentDevelopmentKit (table)",
+        "Rich Tool Ecosystem"
+      ],
+      [
+        "Google Agent Development Kit",
+        "Non-Deterministic Flexible"
+      ],
+      [
+        "Key Features of GoogleAgentDevelopmentKit (table)",
+        "Safe & Secure"
+      ],
+      [
+        "Core Components of Google ADK (table)",
+        "Reasoning, Generation, Tool Use"
+      ],
+      [
+        "Google Agent Development Kit",
+        "Language Tasks, Dynamic Decisions"
+      ],
+      [
+        "GOOGLE-ADK DOCUMENTAIO Header (discarded)",
+        "Page Index"
+      ],
+      [
+        "Agent Functionality and Characteristics Table (table)",
+        "Determinism"
+      ],
+      [
+        "Google ADK",
+        "Primary Function"
+      ],
+      [
+        "GOOGLE-ADK DOCUMENTAIO Header (discarded)",
+        "Header"
+      ],
+      [
+        "Google Agent Development Kit (ADK)",
+        "The Table"
+      ],
+      [
+        "Agent Functionality and Characteristics Table (table)",
+        "Primary Use"
+      ],
+      [
+        "Agent Execution Flow",
+        "Predefined Logic Sequence"
+      ],
+      [
+        "Google ADK Agent Types and Features Table (table)",
+        "LangGraph"
+      ],
+      [
+        "Google ADK Agent Types and Features Table (table)",
+        "The Table"
+      ],
+      [
+        "Best For",
+        "Core Components of Google ADK (table)"
+      ],
+      [
+        "Agent Functionality and Characteristics Table (table)",
+        "Google ADK"
+      ],
+      [
+        "Core Components of Google ADK (table)",
+        "Natural Language Interfaces, Complex Logic, Flexible Decision-Making"
+      ],
+      [
+        "Deployment Ready",
+        "Key Features of GoogleAgentDevelopmentKit (table)"
+      ],
+      [
+        "Google Agent Development Kit",
+        "Header"
+      ],
+      [
+        "Deployment Ready",
+        "Google Agent Development Kit (ADK)"
+      ],
+      [
+        "Google Agent Development Kit",
+        "Large Language Model"
+      ],
+      [
+        "AI Agent Development",
+        "GOOGLE-ADK DOCUMENTAIO Header (discarded)"
+      ],
+      [
+        "Google Agent Development Kit",
+        "Reasoning, Generation, Tool Use"
+      ],
+      [
+        "Google ADK Agent Types and Features Table (table)",
+        "Parallel Agent"
+      ],
+      [
+        "Agent Execution Flow",
+        "Execution Patterns"
+      ],
+      [
+        "Google Agent Development Kit (ADK)",
+        "Key Features of GoogleAgentDevelopmentKit (table)"
+      ],
+      [
+        "Primary Function",
+        "Primary Use"
+      ],
+      [
+        "Built-in Evaluation",
+        "Key Features of GoogleAgentDevelopmentKit (table)"
+      ],
+      [
+        "Parallel Agent",
+        "Workflow Agents"
+      ],
+      [
+        "Best For",
+        "Primary Use"
+      ],
+      [
+        "Core Engine",
+        "Predefined Logic Sequence"
+      ],
+      [
+        "Agent Execution Flow",
+        "Determinism"
+      ],
+      [
+        "Google ADK Agent Types and Features Table (table)",
+        "Loop Agent"
+      ],
+      [
+        "Bounding Box Coordinates",
+        "GOOGLE-ADK DOCUMENTAIO Header (discarded)"
+      ],
+      [
+        "Google Agent Development Kit",
+        "Natural Language Interfaces, Complex Logic, Flexible Decision-Making"
+      ],
+      [
+        "Google ADK Agent Types and Features Table (table)",
+        "Google Agent Development Kit (ADK)"
+      ],
+      [
+        "Built-in Evaluation",
+        "Google Agent Development Kit (ADK)"
+      ],
+      [
+        "Core Components of Google ADK (table)",
+        "Language Tasks, Dynamic Decisions"
+      ],
+      [
+        "Google ADK Agent Types and Features Table (table)",
+        "Sequential Agent"
+      ],
+      [
+        "Google Agent Development Kit (ADK)",
+        "Workflow Agents"
+      ],
+      [
+        "Loop Agent",
+        "Workflow Agents"
+      ],
+      [
+        "Agent Execution Flow",
+        "Google ADK"
+      ],
+      [
+        "Core Components of Google ADK (table)",
+        "Primary Function"
+      ],
+      [
+        "Core Components of Google ADK (table)",
+        "Non-Deterministic Flexible"
+      ],
+      [
+        "Google Agent Development Kit (ADK)",
+        "Multi-Agent Architecture"
+      ],
+      [
+        "Agent Functionality and Characteristics Table (table)",
+        "Best For"
+      ],
+      [
+        "Core Components of Google ADK (table)",
+        "Google Agent Development Kit"
+      ],
+      [
+        "Google ADK Agent Types and Features Table (table)",
+        "Workflow Agents"
+      ],
+      [
+        "Agent Functionality and Characteristics Table (table)",
+        "Predefined Logic Sequence"
+      ],
+      [
+        "Google Agent Development Kit (ADK)",
+        "LLM Agents"
+      ],
+      [
+        "Agent Execution Flow",
+        "Agent Functionality and Characteristics Table (table)"
+      ],
+      [
+        "Core Components of Google ADK (table)",
+        "Core Engine"
+      ],
+      [
+        "Google Agent Development Kit (ADK)",
+        "Rich Tool Ecosystem"
+      ],
+      [
+        "Google Agent Development Kit (ADK)",
+        "Safe & Secure"
+      ],
+      [
+        "Flexible Orchestration",
+        "Key Features of GoogleAgentDevelopmentKit (table)"
+      ],
+      [
+        "Google ADK Agent Types and Features Table (table)",
+        "LLM Agents"
+      ],
+      [
+        "Agent Functionality and Characteristics Table (table)",
+        "Primary Function"
+      ],
+      [
+        "Core Components of Google ADK (table)",
+        "Determinism"
+      ],
+      [
+        "GOOGLE-ADK DOCUMENTAIO Header (discarded)",
+        "Google Agent Development Kit"
+      ],
+      [
+        "AI Agent Development",
+        "Google Agent Development Kit"
+      ],
+      [
+        "Key Features of GoogleAgentDevelopmentKit (table)",
+        "Multi-Agent Architecture"
+      ],
+      [
+        "Flexible Orchestration",
+        "Google Agent Development Kit (ADK)"
+      ],
+      [
+        "Google Agent Development Kit (ADK)",
+        "LangGraph"
+      ]
+    ],
+    "count": 68,
+    "update_time": 1765965434,
+    "_id": "doc-9f9111cbff0274c9ce56a9af3824b665"
+  }
+}

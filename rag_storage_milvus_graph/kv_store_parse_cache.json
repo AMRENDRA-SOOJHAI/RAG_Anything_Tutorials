@@ -1,0 +1,660 @@
+{
+  "1a3c85485baae3e29be7a67bfb2e002d": {
+    "content_list": [
+      {
+        "type": "text",
+        "text": "Artificial Intelligence (AI) grew from deep mathematical ideas into practical systems that now shape how we interact with the digital world — recommending what to watch, helping us find the right documents, and powering chatbots that feel genuinely contextual and helpful. ",
+        "bbox": [
+          129,
+          92,
+          867,
+          135
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "The throughline is simple yet powerful: represent meaning as vectors, compare them efficiently, and stitch results together using reasoning and product logic. What began as abstract theory has become the backbone of personalization, automation, and intelligent decision-making across industries. ",
+        "bbox": [
+          129,
+          139,
+          855,
+          195
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "The 1956 turning point ",
+        "bbox": [
+          129,
+          199,
+          300,
+          215
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "AI became a formal academic discipline at the Dartmouth Workshop in 1956, marking a defining moment that transformed curiosity into a scientific pursuit. This conference gathered brilliant minds who envisioned machines that could “think.” It laid the foundation for decades of exploration in search, knowledge representation, learning, and perception — ideas that evolved into today’s deep learning systems. ",
+        "bbox": [
+          129,
+          217,
+          867,
+          288
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "That milestone clarified AI as an independent field, connected yet distinct from mathematics, psychology, linguistics, and computer engineering. ",
+        "bbox": [
+          127,
+          292,
+          820,
+          322
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "John McCarthy: Coined the term \"Artificial Intelligence\", and pioneered symbolic reasoning and time-sharing in computing. ",
+        "bbox": [
+          129,
+          324,
+          835,
+          354
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "Marvin Minsky: Cofounded the MIT AI Lab, advancing early robotics and cognitive models. ",
+        "bbox": [
+          132,
+          356,
+          805,
+          370
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "Geoffrey Hinton: Reimagined the potential of neural networks, fueling the modern deep learning revolution that underpins today’s perception and language models. ",
+        "bbox": [
+          127,
+          374,
+          847,
+          403
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "Alan Turing (the precursor): Introduced the theory of computation and the Turing Test, establishing the philosophical and mathematical roots of machine intelligence. ",
+        "bbox": [
+          129,
+          406,
+          862,
+          435
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "From meaning to math: embeddings ",
+        "bbox": [
+          131,
+          438,
+          401,
+          453
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "At the heart of modern AI lies a mathematical insight — that meaning can be represented as vectors in high-dimensional space. Words, images, audio, code snippets, and even users’ preferences are transformed into embeddings — dense numerical representations that capture context and relationships. ",
+        "bbox": [
+          129,
+          456,
+          836,
+          513
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "In this space, closeness reflects similarity: ",
+        "bbox": [
+          131,
+          517,
+          442,
+          531
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "Words with related meanings appear near each other. ",
+        "bbox": [
+          129,
+          535,
+          531,
+          549
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "Images that share visual features cluster together. ",
+        "bbox": [
+          129,
+          552,
+          500,
+          567
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "Products that align with user behavior reside in the same neighborhood. ",
+        "bbox": [
+          129,
+          570,
+          665,
+          585
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "This vectorized understanding of the world enables systems to retrieve “what you meant” instead of “what you typed.” It powers semantic search, question answering, recommendation systems, and personalized interactions — the essence of human-like intelligence in digital systems. ",
+        "bbox": [
+          127,
+          589,
+          867,
+          631
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "Why vector databases matter ",
+        "bbox": [
+          129,
+          634,
+          351,
+          649
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "As embeddings grew larger and datasets expanded into billions of items, traditional databases became inefficient for similarity-based retrieval. Enter the vector database — a system purpose-built for storing and searching high-dimensional vectors with sub-second speed. ",
+        "bbox": [
+          131,
+          652,
+          835,
+          695
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "Vector databases make Approximate Nearest Neighbor (ANN) searches feasible at scale. They combine: ",
+        "bbox": [
+          129,
+          699,
+          843,
+          727
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "High-speed vector indexing for semantic similarity. ",
+        "bbox": [
+          132,
+          731,
+          504,
+          745
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "Metadata filters for structured constraints. ",
+        "bbox": [
+          131,
+          750,
+          440,
+          763
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "Hybrid queries that blend keyword and semantic relevance. ",
+        "bbox": [
+          129,
+          766,
+          574,
+          781
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "This allows applications to find not only the exact matches but the most meaningfully similar content, balancing precision and recall. ",
+        "bbox": [
+          127,
+          784,
+          816,
+          813
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "Systems like Milvus, Pinecone, and FAISS now power production-grade pipelines for search, recommendation, retrieval-augmented generation (RAG), and multimodal AI. ",
+        "bbox": [
+          126,
+          816,
+          820,
+          846
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "AI today: the fusion of models and memory ",
+        "bbox": [
+          129,
+          848,
+          452,
+          863
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "Modern AI systems no longer rely solely on trained models. Instead, they combine vector embeddings, retrieval mechanisms, and large language models (LLMs) to dynamically ground ",
+        "bbox": [
+          127,
+          866,
+          831,
+          896
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "responses in facts and context. ",
+        "bbox": [
+          129,
+          92,
+          363,
+          107
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "RAG (Retrieval-Augmented Generation) connects language models to external knowledge bases, making chatbots accurate and domain-aware. ",
+        "bbox": [
+          129,
+          110,
+          863,
+          139
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "Hybrid search merges symbolic and semantic understanding — a union of the old and new schools of AI. ",
+        "bbox": [
+          127,
+          142,
+          867,
+          171
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "Real-time personalization ensures user interactions evolve continuously based on contextual embeddings and behavioral signals. ",
+        "bbox": [
+          131,
+          174,
+          831,
+          203
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "This fusion of reasoning, retrieval, and representation is what makes modern applications personal, relevant, and responsive. ",
+        "bbox": [
+          127,
+          206,
+          867,
+          235
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "The road ahead ",
+        "bbox": [
+          129,
+          239,
+          252,
+          253
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "AI continues to evolve from static intelligence to contextual, memory-driven systems that learn continuously. With advances in multimodal embeddings — connecting text, images, audio, and video — machines are learning to understand the world more like humans do. ",
+        "bbox": [
+          129,
+          256,
+          840,
+          299
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "Vector databases will remain the core infrastructure of intelligent systems, enabling efficient storage, retrieval, and reasoning over the ever-growing universe of human knowledge. ",
+        "bbox": [
+          124,
+          303,
+          813,
+          331
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "In essence, the journey from symbols to vectors marks not just a technological shift but a philosophical one — from hard-coded logic to emergent understanding. The future of AI will be built not merely on code, but on representations of meaning, organized and made accessible through the mathematics of similarity. ",
+        "bbox": [
+          129,
+          335,
+          868,
+          392
+        ],
+        "page_idx": 1
+      }
+    ],
+    "doc_id": "doc-15fcfa9656d45d404130e7732797f68e",
+    "mtime": 1765956710.346911,
+    "parse_config": {
+      "parser": "generic",
+      "parse_method": "auto"
+    },
+    "cached_at": 1765963631.3898058,
+    "cache_version": "1.0",
+    "create_time": 1765963631,
+    "update_time": 1765963631,
+    "_id": "1a3c85485baae3e29be7a67bfb2e002d"
+  },
+  "ed12fbee9b0eb909dab6865b4d2c34bb": {
+    "content_list": [
+      {
+        "type": "image",
+        "img_path": "/home/abcom/Downloads/Vs_Code/Raganything_milvus_graph/output/image/ocr/images/fb05560f5c0e8c313f0a0819512493e0d2a976012dab0f2b37826f7893b331a1.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+          36,
+          106,
+          979,
+          995
+        ],
+        "page_idx": 0
+      }
+    ],
+    "doc_id": "doc-763aa8a7a4f947bb50ac17ea2a8b2710",
+    "mtime": 1763854721.7628026,
+    "parse_config": {
+      "parser": "generic",
+      "parse_method": "auto"
+    },
+    "cached_at": 1765964047.9742606,
+    "cache_version": "1.0",
+    "create_time": 1765964047,
+    "update_time": 1765964047,
+    "_id": "ed12fbee9b0eb909dab6865b4d2c34bb"
+  },
+  "1bc9bec4b2ad6907dfa67fc6d295040a": {
+    "content_list": [
+      {
+        "type": "text",
+        "text": "Overview ",
+        "text_level": 1,
+        "bbox": [
+          45,
+          128,
+          156,
+          149
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "GoogleAgentDevelopmentKit ADK)isaflexible,modularframework for developing, deploying, and ",
+        "bbox": [
+          53,
+          167,
+          947,
+          186
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "orchestrating AI agents. While optimized for Gemini and the Google ecosystem, ADK is deploymentagnostic, and built for compatibility with other frameworks . ",
+        "bbox": [
+          45,
+          200,
+          942,
+          239
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "What Makes ADK Different ",
+        "text_level": 1,
+        "bbox": [
+          45,
+          290,
+          332,
+          311
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "ADK was designed to make agent development feel more like software development, enabling developers to create, deploy, and orchestrate agentic architectures ranging from simple tasks to complex workflows . ",
+        "bbox": [
+          43,
+          328,
+          897,
+          386
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "Key Features ",
+        "text_level": 1,
+        "bbox": [
+          45,
+          438,
+          189,
+          460
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "table",
+        "img_path": "/home/abcom/Downloads/Vs_Code/Raganything_milvus_graph/output/doc/auto/images/d0c5c2f0086f026cfb4ab4826ecba355063966fbadf6e2717ac97ce14b2183be.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"1\" rowspan=\"1\">Feature</td><td colspan=\"1\" rowspan=\"1\">Description</td><td colspan=\"1\" rowspan=\"1\">Benefits</td></tr><tr><td colspan=\"1\" rowspan=\"1\">FlexibleOrchestration</td><td colspan=\"1\" rowspan=\"1\">Define workflows using Sequential, Parallel, Loop agents or LLM- Predictable pipelines + adaptivedriven dynamic routing</td><td colspan=\"1\" rowspan=\"1\">behavior</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Multi-Agent Architecture</td><td colspan=\"1\" rowspan=\"1\">Build modular, scalable applications by composing specializedagents in hierarchies</td><td colspan=\"1\" rowspan=\"1\">Complex coordination and delegation</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Rich Tool Ecosystem</td><td colspan=\"1\" rowspan=\"1\">Pre-buit tools, custom functions, 3rd-party libraries, agents-as-tools</td><td colspan=\"1\" rowspan=\"1\">Diverse capabilities and extensibility</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Deployment Ready</td><td colspan=\"1\" rowspan=\"1\">Containerize and deploy anywhere - local, Vertex Al, Cloud Run,Docker</td><td colspan=\"1\" rowspan=\"1\">Production-grade scalability</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Built-in Evaluation</td><td colspan=\"1\" rowspan=\"1\">Assess agent performance on final responses and executiontrajectories</td><td colspan=\"1\" rowspan=\"1\">Systematic testing and validation</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Safe &amp; Secure</td><td colspan=\"1\" rowspan=\"1\">Implement security patterns and best practices in agent design</td><td colspan=\"1\" rowspan=\"1\">Trustworthy, reliableworkflows</td></tr></table>",
+        "bbox": [
+          42,
+          478,
+          954,
+          856
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "discarded",
+        "text": "GOOGLE-ADK DOCUMENTAIO",
+        "bbox": [
+          43,
+          35,
+          685,
+          68
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "table",
+        "img_path": "",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+          43,
+          32,
+          954,
+          212
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "Agent Types ",
+        "text_level": 1,
+        "bbox": [
+          43,
+          262,
+          196,
+          286
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "ADK provides three core agent categories built on the BaseAgent ",
+        "bbox": [
+          42,
+          305,
+          663,
+          324
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "1. LLM Agents (Agent) ",
+        "bbox": [
+          55,
+          376,
+          278,
+          395
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "table",
+        "img_path": "/home/abcom/Downloads/Vs_Code/Raganything_milvus_graph/output/doc/auto/images/40ed98bf40914e1e2def3758e7ce00ca90ad33aafb6235d4ad51206871a1290f.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>Primary Function</td><td rowspan=1 colspan=1>Reasoning, Generation, Tool Use</td></tr><tr><td rowspan=1 colspan=1>Core Engine</td><td rowspan=1 colspan=1>Large Language Model LLM</td></tr><tr><td rowspan=1 colspan=1>Determinism</td><td rowspan=1 colspan=1>Non-deterministic Flexible)</td></tr><tr><td rowspan=1 colspan=1>Primary Use</td><td rowspan=1 colspan=1>Language tasks, Dynamic decisions</td></tr><tr><td rowspan=1 colspan=1>Best For</td><td rowspan=1 colspan=1>Natural language interfaces, complex logic, flexible decision-making</td></tr></table>",
+        "bbox": [
+          42,
+          442,
+          954,
+          722
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "1. Workfl ow Agents ",
+        "text_level": 1,
+        "bbox": [
+          55,
+          769,
+          326,
+          791
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "Sequential Agent ParallelAgent LoopAgent ",
+        "bbox": [
+          45,
+          806,
+          236,
+          900
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "table",
+        "img_path": "/home/abcom/Downloads/Vs_Code/Raganything_milvus_graph/output/doc/auto/images/2f4aee04823727adaf6dc377c6c529c03e6ef4f5bd81e777e35a59251bc9615e.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>Primary Function</td><td rowspan=1 colspan=1>Controlling Agent Execution Flow</td></tr><tr><td rowspan=1 colspan=1>Core Engine</td><td rowspan=1 colspan=1>Predefined Logic Sequence, Parallel, Loop)</td></tr><tr><td rowspan=1 colspan=1>Determinism</td><td rowspan=1 colspan=1>Deterministic Predictable)</td></tr><tr><td rowspan=1 colspan=1>Primary Use</td><td rowspan=1 colspan=1>Structured processes, Orchestration</td></tr><tr><td rowspan=1 colspan=1>Best For</td><td rowspan=1 colspan=1>Predictable execution patterns, process control</td></tr></table>",
+        "bbox": [
+          42,
+          30,
+          954,
+          310
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "text",
+        "text": "LangGraph Agent Integration Challenge with Google ADK ",
+        "text_level": 1,
+        "bbox": [
+          43,
+          357,
+          677,
+          381
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "text",
+        "text": "The Google ADK agent serves as the main orchestrator.   \nA LangGraph agent is integrated into ADK as a tool. ",
+        "bbox": [
+          57,
+          399,
+          630,
+          438
+        ],
+        "page_idx": 2
+      }
+    ],
+    "doc_id": "doc-9f9111cbff0274c9ce56a9af3824b665",
+    "mtime": 1763854885.1808798,
+    "parse_config": {
+      "parser": "generic",
+      "parse_method": "auto"
+    },
+    "cached_at": 1765965039.168903,
+    "cache_version": "1.0",
+    "create_time": 1765965039,
+    "update_time": 1765965039,
+    "_id": "1bc9bec4b2ad6907dfa67fc6d295040a"
+  }
+}

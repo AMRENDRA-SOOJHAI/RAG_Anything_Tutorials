@@ -1,0 +1,387 @@
+[
+    {
+        "type": "text",
+        "text": "Artificial Intelligence (AI) grew from deep mathematical ideas into practical systems that now shape how we interact with the digital world — recommending what to watch, helping us find the right documents, and powering chatbots that feel genuinely contextual and helpful. ",
+        "bbox": [
+            129,
+            92,
+            867,
+            135
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The throughline is simple yet powerful: represent meaning as vectors, compare them efficiently, and stitch results together using reasoning and product logic. What began as abstract theory has become the backbone of personalization, automation, and intelligent decision-making across industries. ",
+        "bbox": [
+            129,
+            139,
+            855,
+            195
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The 1956 turning point ",
+        "bbox": [
+            129,
+            199,
+            300,
+            215
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AI became a formal academic discipline at the Dartmouth Workshop in 1956, marking a defining moment that transformed curiosity into a scientific pursuit. This conference gathered brilliant minds who envisioned machines that could “think.” It laid the foundation for decades of exploration in search, knowledge representation, learning, and perception — ideas that evolved into today’s deep learning systems. ",
+        "bbox": [
+            129,
+            217,
+            867,
+            288
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "That milestone clarified AI as an independent field, connected yet distinct from mathematics, psychology, linguistics, and computer engineering. ",
+        "bbox": [
+            127,
+            292,
+            820,
+            322
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "John McCarthy: Coined the term \"Artificial Intelligence\", and pioneered symbolic reasoning and time-sharing in computing. ",
+        "bbox": [
+            129,
+            324,
+            835,
+            354
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Marvin Minsky: Cofounded the MIT AI Lab, advancing early robotics and cognitive models. ",
+        "bbox": [
+            132,
+            356,
+            805,
+            370
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Geoffrey Hinton: Reimagined the potential of neural networks, fueling the modern deep learning revolution that underpins today’s perception and language models. ",
+        "bbox": [
+            127,
+            374,
+            847,
+            403
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Alan Turing (the precursor): Introduced the theory of computation and the Turing Test, establishing the philosophical and mathematical roots of machine intelligence. ",
+        "bbox": [
+            129,
+            406,
+            862,
+            435
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "From meaning to math: embeddings ",
+        "bbox": [
+            131,
+            438,
+            401,
+            453
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "At the heart of modern AI lies a mathematical insight — that meaning can be represented as vectors in high-dimensional space. Words, images, audio, code snippets, and even users’ preferences are transformed into embeddings — dense numerical representations that capture context and relationships. ",
+        "bbox": [
+            129,
+            456,
+            836,
+            513
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In this space, closeness reflects similarity: ",
+        "bbox": [
+            131,
+            517,
+            442,
+            531
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Words with related meanings appear near each other. ",
+        "bbox": [
+            129,
+            535,
+            531,
+            549
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Images that share visual features cluster together. ",
+        "bbox": [
+            129,
+            552,
+            500,
+            567
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Products that align with user behavior reside in the same neighborhood. ",
+        "bbox": [
+            129,
+            570,
+            665,
+            585
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "This vectorized understanding of the world enables systems to retrieve “what you meant” instead of “what you typed.” It powers semantic search, question answering, recommendation systems, and personalized interactions — the essence of human-like intelligence in digital systems. ",
+        "bbox": [
+            127,
+            589,
+            867,
+            631
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Why vector databases matter ",
+        "bbox": [
+            129,
+            634,
+            351,
+            649
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "As embeddings grew larger and datasets expanded into billions of items, traditional databases became inefficient for similarity-based retrieval. Enter the vector database — a system purpose-built for storing and searching high-dimensional vectors with sub-second speed. ",
+        "bbox": [
+            131,
+            652,
+            835,
+            695
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Vector databases make Approximate Nearest Neighbor (ANN) searches feasible at scale. They combine: ",
+        "bbox": [
+            129,
+            699,
+            843,
+            727
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "High-speed vector indexing for semantic similarity. ",
+        "bbox": [
+            132,
+            731,
+            504,
+            745
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Metadata filters for structured constraints. ",
+        "bbox": [
+            131,
+            750,
+            440,
+            763
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Hybrid queries that blend keyword and semantic relevance. ",
+        "bbox": [
+            129,
+            766,
+            574,
+            781
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "This allows applications to find not only the exact matches but the most meaningfully similar content, balancing precision and recall. ",
+        "bbox": [
+            127,
+            784,
+            816,
+            813
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Systems like Milvus, Pinecone, and FAISS now power production-grade pipelines for search, recommendation, retrieval-augmented generation (RAG), and multimodal AI. ",
+        "bbox": [
+            126,
+            816,
+            820,
+            846
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AI today: the fusion of models and memory ",
+        "bbox": [
+            129,
+            848,
+            452,
+            863
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Modern AI systems no longer rely solely on trained models. Instead, they combine vector embeddings, retrieval mechanisms, and large language models (LLMs) to dynamically ground ",
+        "bbox": [
+            127,
+            866,
+            831,
+            896
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "responses in facts and context. ",
+        "bbox": [
+            129,
+            92,
+            363,
+            107
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RAG (Retrieval-Augmented Generation) connects language models to external knowledge bases, making chatbots accurate and domain-aware. ",
+        "bbox": [
+            129,
+            110,
+            863,
+            139
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Hybrid search merges symbolic and semantic understanding — a union of the old and new schools of AI. ",
+        "bbox": [
+            127,
+            142,
+            867,
+            171
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Real-time personalization ensures user interactions evolve continuously based on contextual embeddings and behavioral signals. ",
+        "bbox": [
+            131,
+            174,
+            831,
+            203
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "This fusion of reasoning, retrieval, and representation is what makes modern applications personal, relevant, and responsive. ",
+        "bbox": [
+            127,
+            206,
+            867,
+            235
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The road ahead ",
+        "bbox": [
+            129,
+            239,
+            252,
+            253
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AI continues to evolve from static intelligence to contextual, memory-driven systems that learn continuously. With advances in multimodal embeddings — connecting text, images, audio, and video — machines are learning to understand the world more like humans do. ",
+        "bbox": [
+            129,
+            256,
+            840,
+            299
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Vector databases will remain the core infrastructure of intelligent systems, enabling efficient storage, retrieval, and reasoning over the ever-growing universe of human knowledge. ",
+        "bbox": [
+            124,
+            303,
+            813,
+            331
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In essence, the journey from symbols to vectors marks not just a technological shift but a philosophical one — from hard-coded logic to emergent understanding. The future of AI will be built not merely on code, but on representations of meaning, organized and made accessible through the mathematics of similarity. ",
+        "bbox": [
+            129,
+            335,
+            868,
+            392
+        ],
+        "page_idx": 1
+    }
+]

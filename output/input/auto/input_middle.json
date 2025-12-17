@@ -1,0 +1,4116 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        77,
+                        78,
+                        516,
+                        114
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                74,
+                                77,
+                                517,
+                                92
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        74,
+                                        77,
+                                        517,
+                                        92
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Artificial Intelligence (AI) grew from deep mathematical ideas into practical systems that now shape",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                76,
+                                90,
+                                497,
+                                103
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        90,
+                                        497,
+                                        103
+                                    ],
+                                    "score": 1.0,
+                                    "content": "how we interact with the digital world — recommending what to watch, helping us find the right",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                75,
+                                102,
+                                421,
+                                115
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        102,
+                                        421,
+                                        115
+                                    ],
+                                    "score": 1.0,
+                                    "content": "documents, and powering chatbots that feel genuinely contextual and helpful.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        77,
+                        117,
+                        509,
+                        164
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                76,
+                                117,
+                                501,
+                                131
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        117,
+                                        501,
+                                        131
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The throughline is simple yet powerful: represent meaning as vectors, compare them efficiently,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                76,
+                                129,
+                                506,
+                                142
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        129,
+                                        506,
+                                        142
+                                    ],
+                                    "score": 1.0,
+                                    "content": "and stitch results together using reasoning and product logic. What began as abstract theory has",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                75,
+                                140,
+                                489,
+                                155
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        140,
+                                        489,
+                                        155
+                                    ],
+                                    "score": 1.0,
+                                    "content": "become the backbone of personalization, automation, and intelligent decision-making across",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                75,
+                                151,
+                                125,
+                                166
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        151,
+                                        125,
+                                        166
+                                    ],
+                                    "score": 1.0,
+                                    "content": "industries.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        }
+                    ],
+                    "index": 4.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        77,
+                        168,
+                        179,
+                        181
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                76,
+                                168,
+                                180,
+                                182
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        168,
+                                        180,
+                                        182
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The 1956 turning point",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        77,
+                        183,
+                        516,
+                        243
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                75,
+                                182,
+                                504,
+                                197
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        182,
+                                        504,
+                                        197
+                                    ],
+                                    "score": 1.0,
+                                    "content": "AI became a formal academic discipline at the Dartmouth Workshop in 1956, marking a defining",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                76,
+                                195,
+                                514,
+                                208
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        195,
+                                        514,
+                                        208
+                                    ],
+                                    "score": 1.0,
+                                    "content": "moment that transformed curiosity into a scientific pursuit. This conference gathered brilliant minds",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                75,
+                                207,
+                                495,
+                                221
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        207,
+                                        495,
+                                        221
+                                    ],
+                                    "score": 1.0,
+                                    "content": "who envisioned machines that could “think.” It laid the foundation for decades of exploration in",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                75,
+                                218,
+                                516,
+                                234
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        218,
+                                        516,
+                                        234
+                                    ],
+                                    "score": 1.0,
+                                    "content": "search, knowledge representation, learning, and perception — ideas that evolved into today’s deep",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                75,
+                                232,
+                                156,
+                                245
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        232,
+                                        156,
+                                        245
+                                    ],
+                                    "score": 1.0,
+                                    "content": "learning systems.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        }
+                    ],
+                    "index": 10
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        76,
+                        246,
+                        488,
+                        271
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                75,
+                                244,
+                                487,
+                                260
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        244,
+                                        487,
+                                        260
+                                    ],
+                                    "score": 1.0,
+                                    "content": "That milestone clarified AI as an independent field, connected yet distinct from mathematics,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                75,
+                                258,
+                                302,
+                                273
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        258,
+                                        302,
+                                        273
+                                    ],
+                                    "score": 1.0,
+                                    "content": "psychology, linguistics, and computer engineering.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        }
+                    ],
+                    "index": 13.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        77,
+                        273,
+                        497,
+                        298
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                76,
+                                272,
+                                499,
+                                287
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        272,
+                                        499,
+                                        287
+                                    ],
+                                    "score": 1.0,
+                                    "content": "John McCarthy: Coined the term \"Artificial Intelligence\", and pioneered symbolic reasoning and",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                76,
+                                285,
+                                196,
+                                299
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        285,
+                                        196,
+                                        299
+                                    ],
+                                    "score": 1.0,
+                                    "content": "time-sharing in computing.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        }
+                    ],
+                    "index": 15.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        79,
+                        300,
+                        479,
+                        312
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                77,
+                                298,
+                                479,
+                                314
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        77,
+                                        298,
+                                        479,
+                                        314
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Marvin Minsky: Cofounded the MIT AI Lab, advancing early robotics and cognitive models.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        }
+                    ],
+                    "index": 17
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        76,
+                        315,
+                        504,
+                        339
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                75,
+                                314,
+                                502,
+                                330
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        314,
+                                        502,
+                                        330
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Geoffrey Hinton: Reimagined the potential of neural networks, fueling the modern deep learning",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                76,
+                                327,
+                                373,
+                                340
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        327,
+                                        373,
+                                        340
+                                    ],
+                                    "score": 1.0,
+                                    "content": "revolution that underpins today’s perception and language models.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        }
+                    ],
+                    "index": 18.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        77,
+                        342,
+                        513,
+                        366
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                75,
+                                341,
+                                515,
+                                356
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        341,
+                                        515,
+                                        356
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Alan Turing (the precursor): Introduced the theory of computation and the Turing Test, establishing",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                75,
+                                353,
+                                367,
+                                367
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        353,
+                                        367,
+                                        367
+                                    ],
+                                    "score": 1.0,
+                                    "content": "the philosophical and mathematical roots of machine intelligence.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        }
+                    ],
+                    "index": 20.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        78,
+                        369,
+                        239,
+                        381
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                75,
+                                368,
+                                240,
+                                384
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        368,
+                                        240,
+                                        384
+                                    ],
+                                    "score": 1.0,
+                                    "content": "From meaning to math: embeddings",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        }
+                    ],
+                    "index": 22
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        77,
+                        384,
+                        498,
+                        432
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                75,
+                                384,
+                                487,
+                                397
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        384,
+                                        487,
+                                        397
+                                    ],
+                                    "score": 1.0,
+                                    "content": "At the heart of modern AI lies a mathematical insight — that meaning can be represented as",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                75,
+                                397,
+                                474,
+                                409
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        397,
+                                        474,
+                                        409
+                                    ],
+                                    "score": 1.0,
+                                    "content": "vectors in high-dimensional space. Words, images, audio, code snippets, and even users’",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                75,
+                                408,
+                                498,
+                                422
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        408,
+                                        498,
+                                        422
+                                    ],
+                                    "score": 1.0,
+                                    "content": "preferences are transformed into embeddings — dense numerical representations that capture",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                76,
+                                421,
+                                192,
+                                434
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        421,
+                                        192,
+                                        434
+                                    ],
+                                    "score": 1.0,
+                                    "content": "context and relationships.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        }
+                    ],
+                    "index": 24.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        78,
+                        435,
+                        263,
+                        447
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                75,
+                                433,
+                                264,
+                                450
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        433,
+                                        264,
+                                        450
+                                    ],
+                                    "score": 1.0,
+                                    "content": "In this space, closeness reflects similarity:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        }
+                    ],
+                    "index": 27
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        77,
+                        450,
+                        316,
+                        462
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                76,
+                                450,
+                                317,
+                                464
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        450,
+                                        317,
+                                        464
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Words with related meanings appear near each other.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        }
+                    ],
+                    "index": 28
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        77,
+                        465,
+                        298,
+                        477
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                75,
+                                464,
+                                301,
+                                480
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        464,
+                                        301,
+                                        480
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Images that share visual features cluster together.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        }
+                    ],
+                    "index": 29
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        77,
+                        480,
+                        396,
+                        492
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                75,
+                                478,
+                                397,
+                                495
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        478,
+                                        397,
+                                        495
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Products that align with user behavior reside in the same neighborhood.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        }
+                    ],
+                    "index": 30
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        76,
+                        496,
+                        516,
+                        531
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                75,
+                                493,
+                                519,
+                                510
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        493,
+                                        519,
+                                        510
+                                    ],
+                                    "score": 1.0,
+                                    "content": "This vectorized understanding of the world enables systems to retrieve “what you meant” instead of",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                75,
+                                506,
+                                508,
+                                521
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        506,
+                                        508,
+                                        521
+                                    ],
+                                    "score": 1.0,
+                                    "content": "“what you typed.” It powers semantic search, question answering, recommendation systems, and",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                74,
+                                519,
+                                457,
+                                533
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        74,
+                                        519,
+                                        457,
+                                        533
+                                    ],
+                                    "score": 1.0,
+                                    "content": "personalized interactions — the essence of human-like intelligence in digital systems.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        }
+                    ],
+                    "index": 32
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        77,
+                        534,
+                        209,
+                        546
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                76,
+                                533,
+                                209,
+                                547
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        533,
+                                        209,
+                                        547
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Why vector databases matter",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        }
+                    ],
+                    "index": 34
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        78,
+                        549,
+                        497,
+                        585
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                76,
+                                549,
+                                496,
+                                563
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        549,
+                                        496,
+                                        563
+                                    ],
+                                    "score": 1.0,
+                                    "content": "As embeddings grew larger and datasets expanded into billions of items, traditional databases",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        },
+                        {
+                            "bbox": [
+                                77,
+                                561,
+                                460,
+                                574
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        77,
+                                        561,
+                                        460,
+                                        574
+                                    ],
+                                    "score": 1.0,
+                                    "content": "became inefficient for similarity-based retrieval. Enter the vector database — a system",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 36
+                        },
+                        {
+                            "bbox": [
+                                75,
+                                573,
+                                470,
+                                587
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        573,
+                                        470,
+                                        587
+                                    ],
+                                    "score": 1.0,
+                                    "content": "purpose-built for storing and searching high-dimensional vectors with sub-second speed.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 37
+                        }
+                    ],
+                    "index": 36
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        77,
+                        588,
+                        502,
+                        612
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                75,
+                                586,
+                                501,
+                                602
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        586,
+                                        501,
+                                        602
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Vector databases make Approximate Nearest Neighbor (ANN) searches feasible at scale. They",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 38
+                        },
+                        {
+                            "bbox": [
+                                75,
+                                600,
+                                121,
+                                614
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        600,
+                                        121,
+                                        614
+                                    ],
+                                    "score": 1.0,
+                                    "content": "combine:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 39
+                        }
+                    ],
+                    "index": 38.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        79,
+                        615,
+                        300,
+                        627
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                76,
+                                614,
+                                302,
+                                630
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        614,
+                                        302,
+                                        630
+                                    ],
+                                    "score": 1.0,
+                                    "content": "High-speed vector indexing for semantic similarity.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 40
+                        }
+                    ],
+                    "index": 40
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        78,
+                        631,
+                        262,
+                        642
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                76,
+                                630,
+                                263,
+                                643
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        630,
+                                        263,
+                                        643
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Metadata filters for structured constraints.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 41
+                        }
+                    ],
+                    "index": 41
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        77,
+                        645,
+                        342,
+                        657
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                75,
+                                644,
+                                342,
+                                659
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        644,
+                                        342,
+                                        659
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Hybrid queries that blend keyword and semantic relevance.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 42
+                        }
+                    ],
+                    "index": 42
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        76,
+                        660,
+                        486,
+                        684
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                76,
+                                659,
+                                485,
+                                674
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        659,
+                                        485,
+                                        674
+                                    ],
+                                    "score": 1.0,
+                                    "content": "This allows applications to find not only the exact matches but the most meaningfully similar",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 43
+                        },
+                        {
+                            "bbox": [
+                                76,
+                                672,
+                                251,
+                                685
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        672,
+                                        251,
+                                        685
+                                    ],
+                                    "score": 1.0,
+                                    "content": "content, balancing precision and recall.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 44
+                        }
+                    ],
+                    "index": 43.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        75,
+                        687,
+                        488,
+                        712
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                76,
+                                686,
+                                489,
+                                701
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        686,
+                                        489,
+                                        701
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Systems like Milvus, Pinecone, and FAISS now power production-grade pipelines for search,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 45
+                        },
+                        {
+                            "bbox": [
+                                75,
+                                699,
+                                417,
+                                712
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        699,
+                                        417,
+                                        712
+                                    ],
+                                    "score": 1.0,
+                                    "content": "recommendation, retrieval-augmented generation (RAG), and multimodal AI.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 46
+                        }
+                    ],
+                    "index": 45.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        77,
+                        714,
+                        269,
+                        726
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                75,
+                                711,
+                                270,
+                                730
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        711,
+                                        270,
+                                        730
+                                    ],
+                                    "score": 1.0,
+                                    "content": "AI today: the fusion of models and memory",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 47
+                        }
+                    ],
+                    "index": 47
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        76,
+                        729,
+                        495,
+                        754
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                76,
+                                729,
+                                472,
+                                742
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        729,
+                                        472,
+                                        742
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Modern AI systems no longer rely solely on trained models. Instead, they combine vector",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 48
+                        },
+                        {
+                            "bbox": [
+                                76,
+                                741,
+                                493,
+                                755
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        741,
+                                        493,
+                                        755
+                                    ],
+                                    "score": 1.0,
+                                    "content": "embeddings, retrieval mechanisms, and large language models (LLMs) to dynamically ground",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 49
+                        }
+                    ],
+                    "index": 48.5
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                595,
+                841
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        77,
+                        78,
+                        516,
+                        114
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                74,
+                                77,
+                                517,
+                                92
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        74,
+                                        77,
+                                        517,
+                                        92
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Artificial Intelligence (AI) grew from deep mathematical ideas into practical systems that now shape",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                76,
+                                90,
+                                497,
+                                103
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        90,
+                                        497,
+                                        103
+                                    ],
+                                    "score": 1.0,
+                                    "content": "how we interact with the digital world — recommending what to watch, helping us find the right",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                75,
+                                102,
+                                421,
+                                115
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        102,
+                                        421,
+                                        115
+                                    ],
+                                    "score": 1.0,
+                                    "content": "documents, and powering chatbots that feel genuinely contextual and helpful.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 1,
+                    "bbox_fs": [
+                        74,
+                        77,
+                        517,
+                        115
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        77,
+                        117,
+                        509,
+                        164
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                76,
+                                117,
+                                501,
+                                131
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        117,
+                                        501,
+                                        131
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The throughline is simple yet powerful: represent meaning as vectors, compare them efficiently,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                76,
+                                129,
+                                506,
+                                142
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        129,
+                                        506,
+                                        142
+                                    ],
+                                    "score": 1.0,
+                                    "content": "and stitch results together using reasoning and product logic. What began as abstract theory has",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                75,
+                                140,
+                                489,
+                                155
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        140,
+                                        489,
+                                        155
+                                    ],
+                                    "score": 1.0,
+                                    "content": "become the backbone of personalization, automation, and intelligent decision-making across",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                75,
+                                151,
+                                125,
+                                166
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        151,
+                                        125,
+                                        166
+                                    ],
+                                    "score": 1.0,
+                                    "content": "industries.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        }
+                    ],
+                    "index": 4.5,
+                    "bbox_fs": [
+                        75,
+                        117,
+                        506,
+                        166
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        77,
+                        168,
+                        179,
+                        181
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                76,
+                                168,
+                                180,
+                                182
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        168,
+                                        180,
+                                        182
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The 1956 turning point",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        }
+                    ],
+                    "index": 7,
+                    "bbox_fs": [
+                        76,
+                        168,
+                        180,
+                        182
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        77,
+                        183,
+                        516,
+                        243
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                75,
+                                182,
+                                504,
+                                197
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        182,
+                                        504,
+                                        197
+                                    ],
+                                    "score": 1.0,
+                                    "content": "AI became a formal academic discipline at the Dartmouth Workshop in 1956, marking a defining",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                76,
+                                195,
+                                514,
+                                208
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        195,
+                                        514,
+                                        208
+                                    ],
+                                    "score": 1.0,
+                                    "content": "moment that transformed curiosity into a scientific pursuit. This conference gathered brilliant minds",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                75,
+                                207,
+                                495,
+                                221
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        207,
+                                        495,
+                                        221
+                                    ],
+                                    "score": 1.0,
+                                    "content": "who envisioned machines that could “think.” It laid the foundation for decades of exploration in",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                75,
+                                218,
+                                516,
+                                234
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        218,
+                                        516,
+                                        234
+                                    ],
+                                    "score": 1.0,
+                                    "content": "search, knowledge representation, learning, and perception — ideas that evolved into today’s deep",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                75,
+                                232,
+                                156,
+                                245
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        232,
+                                        156,
+                                        245
+                                    ],
+                                    "score": 1.0,
+                                    "content": "learning systems.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        }
+                    ],
+                    "index": 10,
+                    "bbox_fs": [
+                        75,
+                        182,
+                        516,
+                        245
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        76,
+                        246,
+                        488,
+                        271
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                75,
+                                244,
+                                487,
+                                260
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        244,
+                                        487,
+                                        260
+                                    ],
+                                    "score": 1.0,
+                                    "content": "That milestone clarified AI as an independent field, connected yet distinct from mathematics,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                75,
+                                258,
+                                302,
+                                273
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        258,
+                                        302,
+                                        273
+                                    ],
+                                    "score": 1.0,
+                                    "content": "psychology, linguistics, and computer engineering.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        }
+                    ],
+                    "index": 13.5,
+                    "bbox_fs": [
+                        75,
+                        244,
+                        487,
+                        273
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        77,
+                        273,
+                        497,
+                        298
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                76,
+                                272,
+                                499,
+                                287
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        272,
+                                        499,
+                                        287
+                                    ],
+                                    "score": 1.0,
+                                    "content": "John McCarthy: Coined the term \"Artificial Intelligence\", and pioneered symbolic reasoning and",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                76,
+                                285,
+                                196,
+                                299
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        285,
+                                        196,
+                                        299
+                                    ],
+                                    "score": 1.0,
+                                    "content": "time-sharing in computing.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        }
+                    ],
+                    "index": 15.5,
+                    "bbox_fs": [
+                        76,
+                        272,
+                        499,
+                        299
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        79,
+                        300,
+                        479,
+                        312
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                77,
+                                298,
+                                479,
+                                314
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        77,
+                                        298,
+                                        479,
+                                        314
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Marvin Minsky: Cofounded the MIT AI Lab, advancing early robotics and cognitive models.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        }
+                    ],
+                    "index": 17,
+                    "bbox_fs": [
+                        77,
+                        298,
+                        479,
+                        314
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        76,
+                        315,
+                        504,
+                        339
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                75,
+                                314,
+                                502,
+                                330
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        314,
+                                        502,
+                                        330
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Geoffrey Hinton: Reimagined the potential of neural networks, fueling the modern deep learning",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                76,
+                                327,
+                                373,
+                                340
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        327,
+                                        373,
+                                        340
+                                    ],
+                                    "score": 1.0,
+                                    "content": "revolution that underpins today’s perception and language models.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        }
+                    ],
+                    "index": 18.5,
+                    "bbox_fs": [
+                        75,
+                        314,
+                        502,
+                        340
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        77,
+                        342,
+                        513,
+                        366
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                75,
+                                341,
+                                515,
+                                356
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        341,
+                                        515,
+                                        356
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Alan Turing (the precursor): Introduced the theory of computation and the Turing Test, establishing",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                75,
+                                353,
+                                367,
+                                367
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        353,
+                                        367,
+                                        367
+                                    ],
+                                    "score": 1.0,
+                                    "content": "the philosophical and mathematical roots of machine intelligence.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        }
+                    ],
+                    "index": 20.5,
+                    "bbox_fs": [
+                        75,
+                        341,
+                        515,
+                        367
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        78,
+                        369,
+                        239,
+                        381
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                75,
+                                368,
+                                240,
+                                384
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        368,
+                                        240,
+                                        384
+                                    ],
+                                    "score": 1.0,
+                                    "content": "From meaning to math: embeddings",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        }
+                    ],
+                    "index": 22,
+                    "bbox_fs": [
+                        75,
+                        368,
+                        240,
+                        384
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        77,
+                        384,
+                        498,
+                        432
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                75,
+                                384,
+                                487,
+                                397
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        384,
+                                        487,
+                                        397
+                                    ],
+                                    "score": 1.0,
+                                    "content": "At the heart of modern AI lies a mathematical insight — that meaning can be represented as",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                75,
+                                397,
+                                474,
+                                409
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        397,
+                                        474,
+                                        409
+                                    ],
+                                    "score": 1.0,
+                                    "content": "vectors in high-dimensional space. Words, images, audio, code snippets, and even users’",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                75,
+                                408,
+                                498,
+                                422
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        408,
+                                        498,
+                                        422
+                                    ],
+                                    "score": 1.0,
+                                    "content": "preferences are transformed into embeddings — dense numerical representations that capture",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                76,
+                                421,
+                                192,
+                                434
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        421,
+                                        192,
+                                        434
+                                    ],
+                                    "score": 1.0,
+                                    "content": "context and relationships.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        }
+                    ],
+                    "index": 24.5,
+                    "bbox_fs": [
+                        75,
+                        384,
+                        498,
+                        434
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        78,
+                        435,
+                        263,
+                        447
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                75,
+                                433,
+                                264,
+                                450
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        433,
+                                        264,
+                                        450
+                                    ],
+                                    "score": 1.0,
+                                    "content": "In this space, closeness reflects similarity:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        }
+                    ],
+                    "index": 27,
+                    "bbox_fs": [
+                        75,
+                        433,
+                        264,
+                        450
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        77,
+                        450,
+                        316,
+                        462
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                76,
+                                450,
+                                317,
+                                464
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        450,
+                                        317,
+                                        464
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Words with related meanings appear near each other.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        }
+                    ],
+                    "index": 28,
+                    "bbox_fs": [
+                        76,
+                        450,
+                        317,
+                        464
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        77,
+                        465,
+                        298,
+                        477
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                75,
+                                464,
+                                301,
+                                480
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        464,
+                                        301,
+                                        480
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Images that share visual features cluster together.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        }
+                    ],
+                    "index": 29,
+                    "bbox_fs": [
+                        75,
+                        464,
+                        301,
+                        480
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        77,
+                        480,
+                        396,
+                        492
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                75,
+                                478,
+                                397,
+                                495
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        478,
+                                        397,
+                                        495
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Products that align with user behavior reside in the same neighborhood.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        }
+                    ],
+                    "index": 30,
+                    "bbox_fs": [
+                        75,
+                        478,
+                        397,
+                        495
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        76,
+                        496,
+                        516,
+                        531
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                75,
+                                493,
+                                519,
+                                510
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        493,
+                                        519,
+                                        510
+                                    ],
+                                    "score": 1.0,
+                                    "content": "This vectorized understanding of the world enables systems to retrieve “what you meant” instead of",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                75,
+                                506,
+                                508,
+                                521
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        506,
+                                        508,
+                                        521
+                                    ],
+                                    "score": 1.0,
+                                    "content": "“what you typed.” It powers semantic search, question answering, recommendation systems, and",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                74,
+                                519,
+                                457,
+                                533
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        74,
+                                        519,
+                                        457,
+                                        533
+                                    ],
+                                    "score": 1.0,
+                                    "content": "personalized interactions — the essence of human-like intelligence in digital systems.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        }
+                    ],
+                    "index": 32,
+                    "bbox_fs": [
+                        74,
+                        493,
+                        519,
+                        533
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        77,
+                        534,
+                        209,
+                        546
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                76,
+                                533,
+                                209,
+                                547
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        533,
+                                        209,
+                                        547
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Why vector databases matter",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        }
+                    ],
+                    "index": 34,
+                    "bbox_fs": [
+                        76,
+                        533,
+                        209,
+                        547
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        78,
+                        549,
+                        497,
+                        585
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                76,
+                                549,
+                                496,
+                                563
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        549,
+                                        496,
+                                        563
+                                    ],
+                                    "score": 1.0,
+                                    "content": "As embeddings grew larger and datasets expanded into billions of items, traditional databases",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        },
+                        {
+                            "bbox": [
+                                77,
+                                561,
+                                460,
+                                574
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        77,
+                                        561,
+                                        460,
+                                        574
+                                    ],
+                                    "score": 1.0,
+                                    "content": "became inefficient for similarity-based retrieval. Enter the vector database — a system",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 36
+                        },
+                        {
+                            "bbox": [
+                                75,
+                                573,
+                                470,
+                                587
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        573,
+                                        470,
+                                        587
+                                    ],
+                                    "score": 1.0,
+                                    "content": "purpose-built for storing and searching high-dimensional vectors with sub-second speed.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 37
+                        }
+                    ],
+                    "index": 36,
+                    "bbox_fs": [
+                        75,
+                        549,
+                        496,
+                        587
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        77,
+                        588,
+                        502,
+                        612
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                75,
+                                586,
+                                501,
+                                602
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        586,
+                                        501,
+                                        602
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Vector databases make Approximate Nearest Neighbor (ANN) searches feasible at scale. They",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 38
+                        },
+                        {
+                            "bbox": [
+                                75,
+                                600,
+                                121,
+                                614
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        600,
+                                        121,
+                                        614
+                                    ],
+                                    "score": 1.0,
+                                    "content": "combine:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 39
+                        }
+                    ],
+                    "index": 38.5,
+                    "bbox_fs": [
+                        75,
+                        586,
+                        501,
+                        614
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        79,
+                        615,
+                        300,
+                        627
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                76,
+                                614,
+                                302,
+                                630
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        614,
+                                        302,
+                                        630
+                                    ],
+                                    "score": 1.0,
+                                    "content": "High-speed vector indexing for semantic similarity.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 40
+                        }
+                    ],
+                    "index": 40,
+                    "bbox_fs": [
+                        76,
+                        614,
+                        302,
+                        630
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        78,
+                        631,
+                        262,
+                        642
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                76,
+                                630,
+                                263,
+                                643
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        630,
+                                        263,
+                                        643
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Metadata filters for structured constraints.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 41
+                        }
+                    ],
+                    "index": 41,
+                    "bbox_fs": [
+                        76,
+                        630,
+                        263,
+                        643
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        77,
+                        645,
+                        342,
+                        657
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                75,
+                                644,
+                                342,
+                                659
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        644,
+                                        342,
+                                        659
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Hybrid queries that blend keyword and semantic relevance.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 42
+                        }
+                    ],
+                    "index": 42,
+                    "bbox_fs": [
+                        75,
+                        644,
+                        342,
+                        659
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        76,
+                        660,
+                        486,
+                        684
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                76,
+                                659,
+                                485,
+                                674
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        659,
+                                        485,
+                                        674
+                                    ],
+                                    "score": 1.0,
+                                    "content": "This allows applications to find not only the exact matches but the most meaningfully similar",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 43
+                        },
+                        {
+                            "bbox": [
+                                76,
+                                672,
+                                251,
+                                685
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        672,
+                                        251,
+                                        685
+                                    ],
+                                    "score": 1.0,
+                                    "content": "content, balancing precision and recall.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 44
+                        }
+                    ],
+                    "index": 43.5,
+                    "bbox_fs": [
+                        76,
+                        659,
+                        485,
+                        685
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        75,
+                        687,
+                        488,
+                        712
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                76,
+                                686,
+                                489,
+                                701
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        686,
+                                        489,
+                                        701
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Systems like Milvus, Pinecone, and FAISS now power production-grade pipelines for search,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 45
+                        },
+                        {
+                            "bbox": [
+                                75,
+                                699,
+                                417,
+                                712
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        699,
+                                        417,
+                                        712
+                                    ],
+                                    "score": 1.0,
+                                    "content": "recommendation, retrieval-augmented generation (RAG), and multimodal AI.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 46
+                        }
+                    ],
+                    "index": 45.5,
+                    "bbox_fs": [
+                        75,
+                        686,
+                        489,
+                        712
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        77,
+                        714,
+                        269,
+                        726
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                75,
+                                711,
+                                270,
+                                730
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        711,
+                                        270,
+                                        730
+                                    ],
+                                    "score": 1.0,
+                                    "content": "AI today: the fusion of models and memory",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 47
+                        }
+                    ],
+                    "index": 47,
+                    "bbox_fs": [
+                        75,
+                        711,
+                        270,
+                        730
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        76,
+                        729,
+                        495,
+                        754
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                76,
+                                729,
+                                472,
+                                742
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        729,
+                                        472,
+                                        742
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Modern AI systems no longer rely solely on trained models. Instead, they combine vector",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 48
+                        },
+                        {
+                            "bbox": [
+                                76,
+                                741,
+                                493,
+                                755
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        741,
+                                        493,
+                                        755
+                                    ],
+                                    "score": 1.0,
+                                    "content": "embeddings, retrieval mechanisms, and large language models (LLMs) to dynamically ground",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 49
+                        }
+                    ],
+                    "index": 48.5,
+                    "bbox_fs": [
+                        76,
+                        729,
+                        493,
+                        755
+                    ]
+                }
+            ]
+        },
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        77,
+                        78,
+                        216,
+                        90
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                75,
+                                78,
+                                217,
+                                91
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        78,
+                                        217,
+                                        91
+                                    ],
+                                    "score": 1.0,
+                                    "content": "responses in facts and context.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        77,
+                        93,
+                        514,
+                        117
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                75,
+                                92,
+                                510,
+                                106
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        92,
+                                        510,
+                                        106
+                                    ],
+                                    "score": 1.0,
+                                    "content": "RAG (Retrieval-Augmented Generation) connects language models to external knowledge bases,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                77,
+                                106,
+                                281,
+                                118
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        77,
+                                        106,
+                                        281,
+                                        118
+                                    ],
+                                    "score": 1.0,
+                                    "content": "making chatbots accurate and domain-aware.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 1.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        76,
+                        120,
+                        516,
+                        144
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                75,
+                                119,
+                                517,
+                                134
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        119,
+                                        517,
+                                        134
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Hybrid search merges symbolic and semantic understanding — a union of the old and new schools",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                74,
+                                130,
+                                105,
+                                146
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        74,
+                                        130,
+                                        105,
+                                        146
+                                    ],
+                                    "score": 1.0,
+                                    "content": "of AI.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 3.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        78,
+                        147,
+                        495,
+                        171
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                76,
+                                147,
+                                489,
+                                160
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        147,
+                                        489,
+                                        160
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Real-time personalization ensures user interactions evolve continuously based on contextual",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                76,
+                                159,
+                                238,
+                                172
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        159,
+                                        238,
+                                        172
+                                    ],
+                                    "score": 1.0,
+                                    "content": "embeddings and behavioral signals.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        }
+                    ],
+                    "index": 5.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        76,
+                        174,
+                        516,
+                        198
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                75,
+                                172,
+                                518,
+                                188
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        172,
+                                        518,
+                                        188
+                                    ],
+                                    "score": 1.0,
+                                    "content": "This fusion of reasoning, retrieval, and representation is what makes modern applications personal,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                75,
+                                186,
+                                191,
+                                199
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        186,
+                                        191,
+                                        199
+                                    ],
+                                    "score": 1.0,
+                                    "content": "relevant, and responsive.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        }
+                    ],
+                    "index": 7.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        77,
+                        201,
+                        150,
+                        213
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                76,
+                                200,
+                                150,
+                                214
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        200,
+                                        150,
+                                        214
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The road ahead",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        77,
+                        216,
+                        500,
+                        252
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                75,
+                                215,
+                                495,
+                                230
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        215,
+                                        495,
+                                        230
+                                    ],
+                                    "score": 1.0,
+                                    "content": "AI continues to evolve from static intelligence to contextual, memory-driven systems that learn",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                75,
+                                228,
+                                497,
+                                240
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        228,
+                                        497,
+                                        240
+                                    ],
+                                    "score": 1.0,
+                                    "content": "continuously. With advances in multimodal embeddings — connecting text, images, audio, and",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                76,
+                                240,
+                                422,
+                                253
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        240,
+                                        422,
+                                        253
+                                    ],
+                                    "score": 1.0,
+                                    "content": "video — machines are learning to understand the world more like humans do.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        }
+                    ],
+                    "index": 11
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        74,
+                        255,
+                        484,
+                        279
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                75,
+                                254,
+                                484,
+                                268
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        254,
+                                        484,
+                                        268
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Vector databases will remain the core infrastructure of intelligent systems, enabling efficient",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                76,
+                                267,
+                                460,
+                                281
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        267,
+                                        460,
+                                        281
+                                    ],
+                                    "score": 1.0,
+                                    "content": "storage, retrieval, and reasoning over the ever-growing universe of human knowledge.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        }
+                    ],
+                    "index": 13.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        77,
+                        282,
+                        517,
+                        330
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                74,
+                                281,
+                                473,
+                                296
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        74,
+                                        281,
+                                        473,
+                                        296
+                                    ],
+                                    "score": 1.0,
+                                    "content": "In essence, the journey from symbols to vectors marks not just a technological shift but a",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                75,
+                                294,
+                                518,
+                                308
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        294,
+                                        518,
+                                        308
+                                    ],
+                                    "score": 1.0,
+                                    "content": "philosophical one — from hard-coded logic to emergent understanding. The future of AI will be built",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                75,
+                                306,
+                                505,
+                                320
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        306,
+                                        505,
+                                        320
+                                    ],
+                                    "score": 1.0,
+                                    "content": "not merely on code, but on representations of meaning, organized and made accessible through",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                75,
+                                315,
+                                209,
+                                333
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        315,
+                                        209,
+                                        333
+                                    ],
+                                    "score": 1.0,
+                                    "content": "the mathematics of similarity.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        }
+                    ],
+                    "index": 16.5
+                }
+            ],
+            "page_idx": 1,
+            "page_size": [
+                595,
+                841
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        77,
+                        78,
+                        216,
+                        90
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                75,
+                                78,
+                                217,
+                                91
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        78,
+                                        217,
+                                        91
+                                    ],
+                                    "score": 1.0,
+                                    "content": "responses in facts and context.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0,
+                    "bbox_fs": [
+                        75,
+                        78,
+                        217,
+                        91
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        77,
+                        93,
+                        514,
+                        117
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                75,
+                                92,
+                                510,
+                                106
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        92,
+                                        510,
+                                        106
+                                    ],
+                                    "score": 1.0,
+                                    "content": "RAG (Retrieval-Augmented Generation) connects language models to external knowledge bases,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                77,
+                                106,
+                                281,
+                                118
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        77,
+                                        106,
+                                        281,
+                                        118
+                                    ],
+                                    "score": 1.0,
+                                    "content": "making chatbots accurate and domain-aware.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 1.5,
+                    "bbox_fs": [
+                        75,
+                        92,
+                        510,
+                        118
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        76,
+                        120,
+                        516,
+                        144
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                75,
+                                119,
+                                517,
+                                134
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        119,
+                                        517,
+                                        134
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Hybrid search merges symbolic and semantic understanding — a union of the old and new schools",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                74,
+                                130,
+                                105,
+                                146
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        74,
+                                        130,
+                                        105,
+                                        146
+                                    ],
+                                    "score": 1.0,
+                                    "content": "of AI.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 3.5,
+                    "bbox_fs": [
+                        74,
+                        119,
+                        517,
+                        146
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        78,
+                        147,
+                        495,
+                        171
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                76,
+                                147,
+                                489,
+                                160
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        147,
+                                        489,
+                                        160
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Real-time personalization ensures user interactions evolve continuously based on contextual",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                76,
+                                159,
+                                238,
+                                172
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        159,
+                                        238,
+                                        172
+                                    ],
+                                    "score": 1.0,
+                                    "content": "embeddings and behavioral signals.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        }
+                    ],
+                    "index": 5.5,
+                    "bbox_fs": [
+                        76,
+                        147,
+                        489,
+                        172
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        76,
+                        174,
+                        516,
+                        198
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                75,
+                                172,
+                                518,
+                                188
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        172,
+                                        518,
+                                        188
+                                    ],
+                                    "score": 1.0,
+                                    "content": "This fusion of reasoning, retrieval, and representation is what makes modern applications personal,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                75,
+                                186,
+                                191,
+                                199
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        186,
+                                        191,
+                                        199
+                                    ],
+                                    "score": 1.0,
+                                    "content": "relevant, and responsive.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        }
+                    ],
+                    "index": 7.5,
+                    "bbox_fs": [
+                        75,
+                        172,
+                        518,
+                        199
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        77,
+                        201,
+                        150,
+                        213
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                76,
+                                200,
+                                150,
+                                214
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        200,
+                                        150,
+                                        214
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The road ahead",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        }
+                    ],
+                    "index": 9,
+                    "bbox_fs": [
+                        76,
+                        200,
+                        150,
+                        214
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        77,
+                        216,
+                        500,
+                        252
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                75,
+                                215,
+                                495,
+                                230
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        215,
+                                        495,
+                                        230
+                                    ],
+                                    "score": 1.0,
+                                    "content": "AI continues to evolve from static intelligence to contextual, memory-driven systems that learn",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                75,
+                                228,
+                                497,
+                                240
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        228,
+                                        497,
+                                        240
+                                    ],
+                                    "score": 1.0,
+                                    "content": "continuously. With advances in multimodal embeddings — connecting text, images, audio, and",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                76,
+                                240,
+                                422,
+                                253
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        240,
+                                        422,
+                                        253
+                                    ],
+                                    "score": 1.0,
+                                    "content": "video — machines are learning to understand the world more like humans do.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        }
+                    ],
+                    "index": 11,
+                    "bbox_fs": [
+                        75,
+                        215,
+                        497,
+                        253
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        74,
+                        255,
+                        484,
+                        279
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                75,
+                                254,
+                                484,
+                                268
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        254,
+                                        484,
+                                        268
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Vector databases will remain the core infrastructure of intelligent systems, enabling efficient",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                76,
+                                267,
+                                460,
+                                281
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        267,
+                                        460,
+                                        281
+                                    ],
+                                    "score": 1.0,
+                                    "content": "storage, retrieval, and reasoning over the ever-growing universe of human knowledge.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        }
+                    ],
+                    "index": 13.5,
+                    "bbox_fs": [
+                        75,
+                        254,
+                        484,
+                        281
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        77,
+                        282,
+                        517,
+                        330
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                74,
+                                281,
+                                473,
+                                296
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        74,
+                                        281,
+                                        473,
+                                        296
+                                    ],
+                                    "score": 1.0,
+                                    "content": "In essence, the journey from symbols to vectors marks not just a technological shift but a",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                75,
+                                294,
+                                518,
+                                308
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        294,
+                                        518,
+                                        308
+                                    ],
+                                    "score": 1.0,
+                                    "content": "philosophical one — from hard-coded logic to emergent understanding. The future of AI will be built",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                75,
+                                306,
+                                505,
+                                320
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        306,
+                                        505,
+                                        320
+                                    ],
+                                    "score": 1.0,
+                                    "content": "not merely on code, but on representations of meaning, organized and made accessible through",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                75,
+                                315,
+                                209,
+                                333
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        315,
+                                        209,
+                                        333
+                                    ],
+                                    "score": 1.0,
+                                    "content": "the mathematics of similarity.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        }
+                    ],
+                    "index": 16.5,
+                    "bbox_fs": [
+                        74,
+                        281,
+                        518,
+                        333
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.6.4"
+}

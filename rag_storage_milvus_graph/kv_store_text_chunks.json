@@ -1,0 +1,156 @@
+{
+  "chunk-27ef6792c88d7337aa1c40b9a5b1ec44": {
+    "tokens": 880,
+    "content": "Artificial Intelligence (AI) grew from deep mathematical ideas into practical systems that now shape how we interact with the digital world — recommending what to watch, helping us find the right documents, and powering chatbots that feel genuinely contextual and helpful. \n\nThe throughline is simple yet powerful: represent meaning as vectors, compare them efficiently, and stitch results together using reasoning and product logic. What began as abstract theory has become the backbone of personalization, automation, and intelligent decision-making across industries. \n\nThe 1956 turning point \n\nAI became a formal academic discipline at the Dartmouth Workshop in 1956, marking a defining moment that transformed curiosity into a scientific pursuit. This conference gathered brilliant minds who envisioned machines that could “think.” It laid the foundation for decades of exploration in search, knowledge representation, learning, and perception — ideas that evolved into today’s deep learning systems. \n\nThat milestone clarified AI as an independent field, connected yet distinct from mathematics, psychology, linguistics, and computer engineering. \n\nJohn McCarthy: Coined the term \"Artificial Intelligence\", and pioneered symbolic reasoning and time-sharing in computing. \n\nMarvin Minsky: Cofounded the MIT AI Lab, advancing early robotics and cognitive models. \n\nGeoffrey Hinton: Reimagined the potential of neural networks, fueling the modern deep learning revolution that underpins today’s perception and language models. \n\nAlan Turing (the precursor): Introduced the theory of computation and the Turing Test, establishing the philosophical and mathematical roots of machine intelligence. \n\nFrom meaning to math: embeddings \n\nAt the heart of modern AI lies a mathematical insight — that meaning can be represented as vectors in high-dimensional space. Words, images, audio, code snippets, and even users’ preferences are transformed into embeddings — dense numerical representations that capture context and relationships. \n\nIn this space, closeness reflects similarity: \n\nWords with related meanings appear near each other. \n\nImages that share visual features cluster together. \n\nProducts that align with user behavior reside in the same neighborhood. \n\nThis vectorized understanding of the world enables systems to retrieve “what you meant” instead of “what you typed.” It powers semantic search, question answering, recommendation systems, and personalized interactions — the essence of human-like intelligence in digital systems. \n\nWhy vector databases matter \n\nAs embeddings grew larger and datasets expanded into billions of items, traditional databases became inefficient for similarity-based retrieval. Enter the vector database — a system purpose-built for storing and searching high-dimensional vectors with sub-second speed. \n\nVector databases make Approximate Nearest Neighbor (ANN) searches feasible at scale. They combine: \n\nHigh-speed vector indexing for semantic similarity. \n\nMetadata filters for structured constraints. \n\nHybrid queries that blend keyword and semantic relevance. \n\nThis allows applications to find not only the exact matches but the most meaningfully similar content, balancing precision and recall. \n\nSystems like Milvus, Pinecone, and FAISS now power production-grade pipelines for search, recommendation, retrieval-augmented generation (RAG), and multimodal AI. \n\nAI today: the fusion of models and memory \n\nModern AI systems no longer rely solely on trained models. Instead, they combine vector embeddings, retrieval mechanisms, and large language models (LLMs) to dynamically ground \n\nresponses in facts and context. \n\nRAG (Retrieval-Augmented Generation) connects language models to external knowledge bases, making chatbots accurate and domain-aware. \n\nHybrid search merges symbolic and semantic understanding — a union of the old and new schools of AI. \n\nReal-time personalization ensures user interactions evolve continuously based on contextual embeddings and behavioral signals. \n\nThis fusion of reasoning, retrieval, and representation is what makes modern applications personal, relevant, and responsive. \n\nThe road ahead \n\nAI continues to evolve from static intelligence to contextual, memory-driven systems that learn continuously. With advances in multimodal embeddings — connecting text, images, audio, and video — machines are learning to understand the world more like humans do. \n\nVector databases will remain the core infrastructure of intelligent systems, enabling efficient storage, retrieval, and reasoning over the ever-growing universe of human knowledge. \n\nIn essence, the journey from symbols to vectors marks not just a technological shift but a philosophical one — from hard-coded logic to emergent understanding. The future of AI will be built not merely on code, but on representations of meaning, organized and made accessible through the mathematics of similarity.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-15fcfa9656d45d404130e7732797f68e",
+    "file_path": "input.txt",
+    "llm_cache_list": [
+      "default:extract:d1ef7048f1a590ace9e9ac0d64a6d100",
+      "default:extract:167014dcdc797b87058f7030c6a54103"
+    ],
+    "create_time": 1765963632,
+    "update_time": 1765963660,
+    "_id": "chunk-27ef6792c88d7337aa1c40b9a5b1ec44"
+  },
+  "chunk-f4237cdb984c03ac54d3351afb54aff6": {
+    "content": "\nImage Content Analysis:\nImage Path: /home/abcom/Downloads/Vs_Code/Raganything_milvus_graph/output/image/ocr/images/fb05560f5c0e8c313f0a0819512493e0d2a976012dab0f2b37826f7893b331a1.jpg\nCaptions: None\nFootnotes: None\n\nVisual Analysis: {'type': 'image', 'img_path': '/home/abcom/Downloads/Vs_Code/Raganything_milvus_graph/output/image/ocr/images/fb05560f5c0e8c313f0a0819512493e0d2a976012dab0f2b37826f7893b331a1.jpg', 'image_caption': [], 'image_footnote': [], 'bbox': [36, 106, 979, 995], 'page_idx': 0}",
+    "tokens": 193,
+    "full_doc_id": "doc-763aa8a7a4f947bb50ac17ea2a8b2710",
+    "chunk_order_index": 0,
+    "file_path": "image.png",
+    "llm_cache_list": [
+      "default:extract:f707cf77e097eb6151767ecfb885b89e",
+      "default:extract:16c2ff319a0aaaf780ff5ce598053f06"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "image_7d77984e690e5ec4d0d80ea4f2a96a91",
+    "original_type": "image",
+    "page_idx": 0,
+    "create_time": 1765964048,
+    "update_time": 1765964059,
+    "_id": "chunk-f4237cdb984c03ac54d3351afb54aff6"
+  },
+  "chunk-b24e4f5efbef18ac516d2b58efbb0d97": {
+    "content": "\nImage Content Analysis:\nImage Path: /home/abcom/Downloads/Vs_Code/Raganything_milvus_graph/output/image/ocr/images/fb05560f5c0e8c313f0a0819512493e0d2a976012dab0f2b37826f7893b331a1.jpg\nCaptions: None\nFootnotes: None\n\nVisual Analysis: The image is a detailed visual layout featuring various fruits, each labeled with its name. The fruits are arranged in a grid format, occupying multiple rows and columns. The top row includes apple, cherry, grapes, peach, and orange, prominently displaying their colors and distinct features. As we move down, exotic and tropical fruits such as mango, guava, lime, apricot, and grapefruit are visible. Each fruit is shown in full view, with a part cut to display the interior texture. The colors are vibrant and diverse, ranging from the deep red of cherries to the bright yellow of bananas and the sharp green of kiwis. The lighting is bright, ensuring clarity and focus on every fruit's details. The relationships between elements are non-overlapping, with each fruit distinctly separated by white space. Technical aspects such as text labeling for identification add an informative layer. Overall, the visual style is clean and educational, seemingly designed for learning and recognition of different fruit varieties.",
+    "tokens": 279,
+    "full_doc_id": "doc-763aa8a7a4f947bb50ac17ea2a8b2710",
+    "chunk_order_index": 0,
+    "file_path": "image.png",
+    "llm_cache_list": [
+      "default:extract:a83b3c218a3a6e165568982023c77cbd",
+      "default:extract:7c054556b6d44c86c384ce6651f865a6"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Illustrative Fruit Chart (image)",
+    "original_type": "image",
+    "page_idx": 0,
+    "create_time": 1765964599,
+    "update_time": 1765964625,
+    "_id": "chunk-b24e4f5efbef18ac516d2b58efbb0d97"
+  },
+  "chunk-a18c979afc2ea88cc9a1013bb733b190": {
+    "tokens": 173,
+    "content": "Overview \n\nGoogleAgentDevelopmentKit ADK)isaflexible,modularframework for developing, deploying, and \n\norchestrating AI agents. While optimized for Gemini and the Google ecosystem, ADK is deploymentagnostic, and built for compatibility with other frameworks . \n\nWhat Makes ADK Different \n\nADK was designed to make agent development feel more like software development, enabling developers to create, deploy, and orchestrate agentic architectures ranging from simple tasks to complex workflows . \n\nKey Features \n\nAgent Types \n\nADK provides three core agent categories built on the BaseAgent \n\n1. LLM Agents (Agent) \n\n1. Workfl ow Agents \n\nSequential Agent ParallelAgent LoopAgent \n\nLangGraph Agent Integration Challenge with Google ADK \n\nThe Google ADK agent serves as the main orchestrator.   \nA LangGraph agent is integrated into ADK as a tool.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-9f9111cbff0274c9ce56a9af3824b665",
+    "file_path": "doc.pdf",
+    "llm_cache_list": [
+      "default:extract:95840907583b9492e77c17fe41fd30e6",
+      "default:extract:460def10c3f5699ea273eb7fb591f3af"
+    ],
+    "create_time": 1765965040,
+    "update_time": 1765965054,
+    "_id": "chunk-a18c979afc2ea88cc9a1013bb733b190"
+  },
+  "chunk-394839d43bb1dd2540deb79222c7b815": {
+    "content": "Table Analysis:\nImage Path: /home/abcom/Downloads/Vs_Code/Raganything_milvus_graph/output/doc/auto/images/d0c5c2f0086f026cfb4ab4826ecba355063966fbadf6e2717ac97ce14b2183be.jpg\nCaption: None\nStructure: <table><tr><td colspan=\"1\" rowspan=\"1\">Feature</td><td colspan=\"1\" rowspan=\"1\">Description</td><td colspan=\"1\" rowspan=\"1\">Benefits</td></tr><tr><td colspan=\"1\" rowspan=\"1\">FlexibleOrchestration</td><td colspan=\"1\" rowspan=\"1\">Define workflows using Sequential, Parallel, Loop agents or LLM- Predictable pipelines + adaptivedriven dynamic routing</td><td colspan=\"1\" rowspan=\"1\">behavior</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Multi-Agent Architecture</td><td colspan=\"1\" rowspan=\"1\">Build modular, scalable applications by composing specializedagents in hierarchies</td><td colspan=\"1\" rowspan=\"1\">Complex coordination and delegation</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Rich Tool Ecosystem</td><td colspan=\"1\" rowspan=\"1\">Pre-buit tools, custom functions, 3rd-party libraries, agents-as-tools</td><td colspan=\"1\" rowspan=\"1\">Diverse capabilities and extensibility</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Deployment Ready</td><td colspan=\"1\" rowspan=\"1\">Containerize and deploy anywhere - local, Vertex Al, Cloud Run,Docker</td><td colspan=\"1\" rowspan=\"1\">Production-grade scalability</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Built-in Evaluation</td><td colspan=\"1\" rowspan=\"1\">Assess agent performance on final responses and executiontrajectories</td><td colspan=\"1\" rowspan=\"1\">Systematic testing and validation</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Safe &amp; Secure</td><td colspan=\"1\" rowspan=\"1\">Implement security patterns and best practices in agent design</td><td colspan=\"1\" rowspan=\"1\">Trustworthy, reliableworkflows</td></tr></table>\nFootnotes: None\n\nAnalysis: The table is neatly organized with three primary columns: 'Feature', 'Description', and 'Benefits'. Each row represents a distinct feature of the GoogleAgentDevelopmentKit (ADK), offering a concise description and highlighting specific benefits. Key data points include: 'Flexible Orchestration', which allows developers to define workflows using various agents like Sequential, Parallel, and Loop; 'Multi-Agent Architecture', which promotes modular and scalable application building; 'Rich Tool Ecosystem', providing pre-built tools and 3rd-party libraries for diverse capabilities; 'Deployment Ready', ensuring production-grade scalability across different platforms; 'Built-in Evaluation', facilitating systematic testing and validation; and 'Safe & Secure', ensuring trustworthy workflows through security best practices. A consistent pattern emerges showing how each feature contributes to enhancing the overall functionality, flexibility, and security of AI agent development. The relationships between the features demonstrate a coherent strategy of enabling powerful, adaptable, and secure AI solutions that can be deployed across various environments. The data in this table significantly underpins the surrounding content by illustrating how ADK distinguishes itself from other frameworks through its versatile, secure, and production-oriented architecture. The specific features and their benefits exemplify ADK's mission to make AI agent development as seamless and robust as traditional software development.",
+    "tokens": 754,
+    "full_doc_id": "doc-9f9111cbff0274c9ce56a9af3824b665",
+    "chunk_order_index": 1,
+    "file_path": "doc.pdf",
+    "llm_cache_list": [
+      "default:extract:e866ed35aadcceabf8aa89c4f172c811",
+      "default:extract:961a2d373df3be0b3286736e96ba1637"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Key Features of GoogleAgentDevelopmentKit (table)",
+    "original_type": "table",
+    "page_idx": 0,
+    "create_time": 1765965132,
+    "update_time": 1765965150,
+    "_id": "chunk-394839d43bb1dd2540deb79222c7b815"
+  },
+  "chunk-d28b4fd9619d29d7160b92b9a8a8b1d6": {
+    "content": "Discarded Content Analysis:\nContent: {'type': 'discarded', 'text': 'GOOGLE-ADK DOCUMENTAIO', 'bbox': [43, 35, 685, 68], 'page_idx': 0}\n\nAnalysis: This discarded content represents a header or a title labeled as 'GOOGLE-ADK DOCUMENTAIO', which is likely a misspelled version of 'DOCUMENTATION'. Located at the top of the page (indicated by the bounding box coordinates and page index), it suggests the main subject of the document is related to Google's ADK. The presented structure indicates it was intended as an introductory banner or header for a document delineating detailed information about the Google Agent Development Kit. The surrounding context suggests its significance as it introduces a framework aimed at enhancing AI agent development, showcasing its flexibility and modularity. The context aligns with the introduction of subsequent sections detailing what differentiates the ADK and its key features. This content supports the broader discussion by framing the document's intent, making it a point of reference for the subject matter discussed in detail within the remaining parts of the document. Owing to its header-like properties and positioning, it provides a thematic anchor for readers, categorically situating the ADK in the broader landscape of AI agent development solutions.",
+    "tokens": 261,
+    "full_doc_id": "doc-9f9111cbff0274c9ce56a9af3824b665",
+    "chunk_order_index": 2,
+    "file_path": "doc.pdf",
+    "llm_cache_list": [
+      "default:extract:6570448629ba3549f65e7013cb50c583",
+      "default:extract:b175cfee2a20d5b55537c3274c363295"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "GOOGLE-ADK DOCUMENTAIO Header (discarded)",
+    "original_type": "discarded",
+    "page_idx": 0,
+    "create_time": 1765965132,
+    "update_time": 1765965147,
+    "_id": "chunk-d28b4fd9619d29d7160b92b9a8a8b1d6"
+  },
+  "chunk-a4203674dfbeed791037186dad50c1af": {
+    "content": "Table Analysis:\nImage Path: \nCaption: None\nStructure: \nFootnotes: None\n\nAnalysis: The table is structurally designed as a conventional data table, though the exact layout is not provided. It likely organizes data into rows and columns with specific column headers that directly correspond to elements mentioned succinctly in the surrounding context. With a focus on the Google Agent Development Kit (ADK), the headers might include categories like 'Agent Type', 'Features', 'Integration', and 'Deployment Compatibility'. Given the content emphasis on different agent types and their roles, the key data points in the table probably detail the functionalities of these agents, such as 'LLM Agents', 'Workflow Agents', and their subcategories like 'Sequential Agent', 'Parallel Agent', and 'Loop Agent'. Statistical insights may highlight the prevalence or performance effectiveness of each agent type during integration and deployment across different frameworks beyond Gemini. Trends might show a growing interoperability of ADK with diverse ecosystems, emphasizing its modular design. Relationships between data elements could include how specific agent types align with particular workflows or integration challenges noted in the context, like the integration of a LangGraph agent into ADK. The table's data is significant because it visually supports ADK's value proposition, illustrating how it differentiates itself from other agent development frameworks by promoting cross-platform applicability and robust agent orchestration capabilities. This directly supports the ADK’s promise of enhancing workflow management in AI agent development and corroborates the surrounding content's explanation of ADK's unique offerings and advantages.",
+    "tokens": 303,
+    "full_doc_id": "doc-9f9111cbff0274c9ce56a9af3824b665",
+    "chunk_order_index": 3,
+    "file_path": "doc.pdf",
+    "llm_cache_list": [
+      "default:extract:a2a6ab18ec36e46be4d00021503567b5",
+      "default:extract:d84799272f7e9f84869a614699a4ceb6"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Google ADK Agent Types and Features Table (table)",
+    "original_type": "table",
+    "page_idx": 1,
+    "create_time": 1765965132,
+    "update_time": 1765965154,
+    "_id": "chunk-a4203674dfbeed791037186dad50c1af"
+  },
+  "chunk-ccfdee4953a374c934a7d9c0b5f8f806": {
+    "content": "Table Analysis:\nImage Path: /home/abcom/Downloads/Vs_Code/Raganything_milvus_graph/output/doc/auto/images/40ed98bf40914e1e2def3758e7ce00ca90ad33aafb6235d4ad51206871a1290f.jpg\nCaption: None\nStructure: <table><tr><td rowspan=1 colspan=1>Primary Function</td><td rowspan=1 colspan=1>Reasoning, Generation, Tool Use</td></tr><tr><td rowspan=1 colspan=1>Core Engine</td><td rowspan=1 colspan=1>Large Language Model LLM</td></tr><tr><td rowspan=1 colspan=1>Determinism</td><td rowspan=1 colspan=1>Non-deterministic Flexible)</td></tr><tr><td rowspan=1 colspan=1>Primary Use</td><td rowspan=1 colspan=1>Language tasks, Dynamic decisions</td></tr><tr><td rowspan=1 colspan=1>Best For</td><td rowspan=1 colspan=1>Natural language interfaces, complex logic, flexible decision-making</td></tr></table>\nFootnotes: None\n\nAnalysis: The table under review is concise and structured in a two-column format with each row representing a specific attribute of a certain component, presumably within the Google Agent Development Kit (ADK). The first column lists the key attributes such as 'Primary Function', 'Core Engine', 'Determinism', 'Primary Use', and 'Best For', while the second column provides detailed descriptions or characteristics of these attributes. The 'Primary Function' indicates that the entity is used for 'Reasoning, Generation, Tool Use', highlighting its multifaceted capabilities. The 'Core Engine' is powered by 'Large Language Model (LLM)', suggesting it utilizes advanced AI for processing natural language tasks. 'Determinism' is characterized as 'Non-deterministic Flexible', implying the system is adaptable and can handle unpredictability in decision-making processes. The 'Primary Use' is for 'Language tasks, Dynamic decisions', linking it directly to tasks requiring nuanced understanding and real-time decision mechanisms. Lastly, it is 'Best For' applications involving 'Natural language interfaces, complex logic, flexible decision-making', emphasizing its suitability in developing dynamic and interactive AI solutions. Patterns in the data show a focus on versatility and adaptability, aligning with the surrounding context of ADK's design for diverse AI agent frameworks. The data supports the notion that ADK facilitates advanced agent development by providing components that cater to complex AI-driven workflows, reinforcing its role as a versatile development framework within the Google ecosystem.",
+    "tokens": 546,
+    "full_doc_id": "doc-9f9111cbff0274c9ce56a9af3824b665",
+    "chunk_order_index": 4,
+    "file_path": "doc.pdf",
+    "llm_cache_list": [
+      "default:extract:a634a1c759335105dadbff69155f9c10",
+      "default:extract:92799cce241c2dcaa16a013cb783e105"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Core Components of Google ADK (table)",
+    "original_type": "table",
+    "page_idx": 1,
+    "create_time": 1765965132,
+    "update_time": 1765965154,
+    "_id": "chunk-ccfdee4953a374c934a7d9c0b5f8f806"
+  },
+  "chunk-8752bd28670ab35d860b28e192c95410": {
+    "content": "Table Analysis:\nImage Path: /home/abcom/Downloads/Vs_Code/Raganything_milvus_graph/output/doc/auto/images/2f4aee04823727adaf6dc377c6c529c03e6ef4f5bd81e777e35a59251bc9615e.jpg\nCaption: None\nStructure: <table><tr><td rowspan=1 colspan=1>Primary Function</td><td rowspan=1 colspan=1>Controlling Agent Execution Flow</td></tr><tr><td rowspan=1 colspan=1>Core Engine</td><td rowspan=1 colspan=1>Predefined Logic Sequence, Parallel, Loop)</td></tr><tr><td rowspan=1 colspan=1>Determinism</td><td rowspan=1 colspan=1>Deterministic Predictable)</td></tr><tr><td rowspan=1 colspan=1>Primary Use</td><td rowspan=1 colspan=1>Structured processes, Orchestration</td></tr><tr><td rowspan=1 colspan=1>Best For</td><td rowspan=1 colspan=1>Predictable execution patterns, process control</td></tr></table>\nFootnotes: None\n\nAnalysis: The table presents details about specific functions and characteristics pertinent to agents, likely within the context of the Google ADK system that serves as an orchestrator. It is structured with rows aligning a specific feature on the left with its explanation on the right. The columns are: 'Feature' and 'Description'. Key data points include: 'Primary Function' which refers to controlling agent execution flow, implying a system management role; 'Core Engine' involves 'Predefined Logic Sequence, Parallel, Loop', indicating flexibility in operation modes; 'Determinism' marks the process as 'Deterministic Predictable', suggesting reliability; 'Primary Use' highlights 'Structured processes, Orchestration', establishing a strategy-centric application for precise task management; and 'Best For' describes suitability with 'Predictable execution patterns, process control'. Trends show a focus on ensuring consistent and controllable execution within structured frameworks, pointing towards robustness in managing complex agent-based processes. These traits indicate the data's significance in confirming the adaptability and reliability of agent categories within the agent types discussed in the surrounding content. The table illustrates core agent properties as structured, organized and reliable, supporting the broader discussion on agent types and their integration, specifically how platforms like Google ADK facilitate these roles.",
+    "tokens": 508,
+    "full_doc_id": "doc-9f9111cbff0274c9ce56a9af3824b665",
+    "chunk_order_index": 5,
+    "file_path": "doc.pdf",
+    "llm_cache_list": [
+      "default:extract:2cfc476f0727dda1fca3c3322e94eb8f",
+      "default:extract:a87f48eb46f738becd5ad09dc1a8fbee"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Agent Functionality and Characteristics Table (table)",
+    "original_type": "table",
+    "page_idx": 2,
+    "create_time": 1765965132,
+    "update_time": 1765965163,
+    "_id": "chunk-8752bd28670ab35d860b28e192c95410"
+  }
+}

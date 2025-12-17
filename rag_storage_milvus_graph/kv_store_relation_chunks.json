@@ -1,0 +1,182 @@
+{
+  "Language Models<SEP>RAG": {
+    "chunk_ids": [
+      "chunk-27ef6792c88d7337aa1c40b9a5b1ec44"
+    ],
+    "count": 1,
+    "create_time": 1765963683,
+    "update_time": 1765963683,
+    "_id": "Language Models<SEP>RAG"
+  },
+  "Artificial Intelligence<SEP>Dartmouth Workshop": {
+    "chunk_ids": [
+      "chunk-27ef6792c88d7337aa1c40b9a5b1ec44"
+    ],
+    "count": 1,
+    "create_time": 1765963683,
+    "update_time": 1765963683,
+    "_id": "Artificial Intelligence<SEP>Dartmouth Workshop"
+  },
+  "Approximate Nearest Neighbor Search<SEP>Vector Databases": {
+    "chunk_ids": [
+      "chunk-27ef6792c88d7337aa1c40b9a5b1ec44"
+    ],
+    "count": 1,
+    "create_time": 1765963683,
+    "update_time": 1765963683,
+    "_id": "Approximate Nearest Neighbor Search<SEP>Vector Databases"
+  },
+  "Artificial Intelligence<SEP>John McCarthy": {
+    "chunk_ids": [
+      "chunk-27ef6792c88d7337aa1c40b9a5b1ec44"
+    ],
+    "count": 1,
+    "create_time": 1765963691,
+    "update_time": 1765963691,
+    "_id": "Artificial Intelligence<SEP>John McCarthy"
+  },
+  "Milvus<SEP>Vector Databases": {
+    "chunk_ids": [
+      "chunk-27ef6792c88d7337aa1c40b9a5b1ec44"
+    ],
+    "count": 1,
+    "create_time": 1765963691,
+    "update_time": 1765963691,
+    "_id": "Milvus<SEP>Vector Databases"
+  },
+  "Artificial Intelligence<SEP>Marvin Minsky": {
+    "chunk_ids": [
+      "chunk-27ef6792c88d7337aa1c40b9a5b1ec44"
+    ],
+    "count": 1,
+    "create_time": 1765963699,
+    "update_time": 1765963699,
+    "_id": "Artificial Intelligence<SEP>Marvin Minsky"
+  },
+  "Pinecone<SEP>Vector Databases": {
+    "chunk_ids": [
+      "chunk-27ef6792c88d7337aa1c40b9a5b1ec44"
+    ],
+    "count": 1,
+    "create_time": 1765963702,
+    "update_time": 1765963702,
+    "_id": "Pinecone<SEP>Vector Databases"
+  },
+  "Artificial Intelligence<SEP>Geoffrey Hinton": {
+    "chunk_ids": [
+      "chunk-27ef6792c88d7337aa1c40b9a5b1ec44"
+    ],
+    "count": 1,
+    "create_time": 1765963708,
+    "update_time": 1765963708,
+    "_id": "Artificial Intelligence<SEP>Geoffrey Hinton"
+  },
+  "FAISS<SEP>Vector Databases": {
+    "chunk_ids": [
+      "chunk-27ef6792c88d7337aa1c40b9a5b1ec44"
+    ],
+    "count": 1,
+    "create_time": 1765963708,
+    "update_time": 1765963708,
+    "_id": "FAISS<SEP>Vector Databases"
+  },
+  "Alan Turing<SEP>Artificial Intelligence": {
+    "chunk_ids": [
+      "chunk-27ef6792c88d7337aa1c40b9a5b1ec44"
+    ],
+    "count": 1,
+    "create_time": 1765963714,
+    "update_time": 1765963714,
+    "_id": "Alan Turing<SEP>Artificial Intelligence"
+  },
+  "Artificial Intelligence<SEP>Personalization": {
+    "chunk_ids": [
+      "chunk-27ef6792c88d7337aa1c40b9a5b1ec44"
+    ],
+    "count": 1,
+    "create_time": 1765963718,
+    "update_time": 1765963718,
+    "_id": "Artificial Intelligence<SEP>Personalization"
+  },
+  "Artificial Intelligence<SEP>Automation": {
+    "chunk_ids": [
+      "chunk-27ef6792c88d7337aa1c40b9a5b1ec44"
+    ],
+    "count": 1,
+    "create_time": 1765963722,
+    "update_time": 1765963722,
+    "_id": "Artificial Intelligence<SEP>Automation"
+  },
+  "Artificial Intelligence<SEP>Intelligent Decision-Making": {
+    "chunk_ids": [
+      "chunk-27ef6792c88d7337aa1c40b9a5b1ec44"
+    ],
+    "count": 1,
+    "create_time": 1765963727,
+    "update_time": 1765963727,
+    "_id": "Artificial Intelligence<SEP>Intelligent Decision-Making"
+  },
+  "Gemini<SEP>Google Agent Development Kit": {
+    "chunk_ids": [
+      "chunk-a18c979afc2ea88cc9a1013bb733b190"
+    ],
+    "count": 1,
+    "create_time": 1765965076,
+    "update_time": 1765965076,
+    "_id": "Gemini<SEP>Google Agent Development Kit"
+  },
+  "Sequential Agent<SEP>Workflow Agents": {
+    "chunk_ids": [
+      "chunk-a18c979afc2ea88cc9a1013bb733b190"
+    ],
+    "count": 1,
+    "create_time": 1765965076,
+    "update_time": 1765965076,
+    "_id": "Sequential Agent<SEP>Workflow Agents"
+  },
+  "Google Agent Development Kit<SEP>Other Frameworks": {
+    "chunk_ids": [
+      "chunk-a18c979afc2ea88cc9a1013bb733b190"
+    ],
+    "count": 1,
+    "create_time": 1765965082,
+    "update_time": 1765965082,
+    "_id": "Google Agent Development Kit<SEP>Other Frameworks"
+  },
+  "Parallel Agent<SEP>Workflow Agents": {
+    "chunk_ids": [
+      "chunk-a18c979afc2ea88cc9a1013bb733b190"
+    ],
+    "count": 1,
+    "create_time": 1765965084,
+    "update_time": 1765965084,
+    "_id": "Parallel Agent<SEP>Workflow Agents"
+  },
+  "AI Agents<SEP>Google Agent Development Kit": {
+    "chunk_ids": [
+      "chunk-a18c979afc2ea88cc9a1013bb733b190"
+    ],
+    "count": 1,
+    "create_time": 1765965093,
+    "update_time": 1765965093,
+    "_id": "AI Agents<SEP>Google Agent Development Kit"
+  },
+  "Loop Agent<SEP>Workflow Agents": {
+    "chunk_ids": [
+      "chunk-a18c979afc2ea88cc9a1013bb733b190"
+    ],
+    "count": 1,
+    "create_time": 1765965093,
+    "update_time": 1765965093,
+    "_id": "Loop Agent<SEP>Workflow Agents"
+  },
+  "Google Agent Development Kit<SEP>LangGraph Agent": {
+    "chunk_ids": [
+      "chunk-a18c979afc2ea88cc9a1013bb733b190"
+    ],
+    "count": 1,
+    "create_time": 1765965100,
+    "update_time": 1765965100,
+    "_id": "Google Agent Development Kit<SEP>LangGraph Agent"
+  }
+}

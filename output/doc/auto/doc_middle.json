@@ -1,0 +1,1878 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        27,
+                        108,
+                        93,
+                        126
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                25,
+                                106,
+                                96,
+                                126
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        25,
+                                        106,
+                                        96,
+                                        126
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Overview",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        32,
+                        141,
+                        564,
+                        157
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                27,
+                                140,
+                                567,
+                                160
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        27,
+                                        140,
+                                        567,
+                                        160
+                                    ],
+                                    "score": 1.0,
+                                    "content": "GoogleAgentDevelopmentKit ADK)isaflexible,modularframework for developing, deploying, and",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        27,
+                        169,
+                        561,
+                        201
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                26,
+                                169,
+                                550,
+                                186
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        26,
+                                        169,
+                                        550,
+                                        186
+                                    ],
+                                    "score": 1.0,
+                                    "content": "orchestrating AI agents. While optimized for Gemini and the Google ecosystem, ADK is deployment-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                25,
+                                186,
+                                343,
+                                203
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        25,
+                                        186,
+                                        343,
+                                        203
+                                    ],
+                                    "score": 1.0,
+                                    "content": "agnostic, and built for compatibility with other frameworks .",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 2.5
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        27,
+                        244,
+                        198,
+                        262
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                25,
+                                244,
+                                200,
+                                261
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        25,
+                                        244,
+                                        200,
+                                        261
+                                    ],
+                                    "score": 1.0,
+                                    "content": "What Makes ADK Different",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        26,
+                        276,
+                        534,
+                        325
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                24,
+                                275,
+                                532,
+                                295
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        24,
+                                        275,
+                                        532,
+                                        295
+                                    ],
+                                    "score": 1.0,
+                                    "content": "ADK was designed to make agent development feel more like software development, enabling",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                25,
+                                294,
+                                534,
+                                310
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        25,
+                                        294,
+                                        534,
+                                        310
+                                    ],
+                                    "score": 1.0,
+                                    "content": "developers to create, deploy, and orchestrate agentic architectures ranging from simple tasks to",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                26,
+                                311,
+                                146,
+                                326
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        26,
+                                        311,
+                                        146,
+                                        326
+                                    ],
+                                    "score": 1.0,
+                                    "content": "complex workflows .",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        27,
+                        369,
+                        113,
+                        387
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                25,
+                                367,
+                                114,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        25,
+                                        367,
+                                        114,
+                                        387
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Key Features",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        25,
+                        402,
+                        568,
+                        720
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                25,
+                                402,
+                                568,
+                                720
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        25,
+                                        402,
+                                        568,
+                                        720
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                25,
+                                                402,
+                                                568,
+                                                720
+                                            ],
+                                            "score": 0.982,
+                                            "html": "<table><tr><td rowspan=1 colspan=1>Feature</td><td rowspan=1 colspan=1>Description</td><td rowspan=1 colspan=1>Benefits</td></tr><tr><td rowspan=1 colspan=1>FlexibleOrchestration</td><td rowspan=1 colspan=1>Define workflows using Sequential, Parallel, Loop agents or LLM- Predictable pipelines + adaptivedriven dynamic routing</td><td rowspan=1 colspan=1>behavior</td></tr><tr><td rowspan=1 colspan=1>Multi-Agent Architecture</td><td rowspan=1 colspan=1>Build modular, scalable applications by composing specializedagents in hierarchies</td><td rowspan=1 colspan=1>Complex coordination and delegation</td></tr><tr><td rowspan=1 colspan=1>Rich Tool Ecosystem</td><td rowspan=1 colspan=1>Pre-buit tools, custom functions, 3rd-party libraries, agents-as-tools</td><td rowspan=1 colspan=1>Diverse capabilities and extensibility</td></tr><tr><td rowspan=1 colspan=1>Deployment Ready</td><td rowspan=1 colspan=1>Containerize and deploy anywhere - local, Vertex Al, Cloud Run,Docker</td><td rowspan=1 colspan=1>Production-grade scalability</td></tr></table>",
+                                            "type": "table",
+                                            "image_path": "d0c5c2f0086f026cfb4ab4826ecba355063966fbadf6e2717ac97ce14b2183be.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 10,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        25,
+                                        402,
+                                        568,
+                                        508.0
+                                    ],
+                                    "spans": [],
+                                    "index": 9
+                                },
+                                {
+                                    "bbox": [
+                                        25,
+                                        508.0,
+                                        568,
+                                        614.0
+                                    ],
+                                    "spans": [],
+                                    "index": 10
+                                },
+                                {
+                                    "bbox": [
+                                        25,
+                                        614.0,
+                                        568,
+                                        720.0
+                                    ],
+                                    "spans": [],
+                                    "index": 11
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                595,
+                841
+            ],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        26,
+                        30,
+                        408,
+                        58
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                24,
+                                30,
+                                410,
+                                60
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        24,
+                                        30,
+                                        410,
+                                        60
+                                    ],
+                                    "score": 1.0,
+                                    "content": "GOOGLE-ADK DOCUMENTAIO",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        27,
+                        108,
+                        93,
+                        126
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                25,
+                                106,
+                                96,
+                                126
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        25,
+                                        106,
+                                        96,
+                                        126
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Overview",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        32,
+                        141,
+                        564,
+                        157
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                27,
+                                140,
+                                567,
+                                160
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        27,
+                                        140,
+                                        567,
+                                        160
+                                    ],
+                                    "score": 1.0,
+                                    "content": "GoogleAgentDevelopmentKit ADK)isaflexible,modularframework for developing, deploying, and",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 1,
+                    "bbox_fs": [
+                        27,
+                        140,
+                        567,
+                        160
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        27,
+                        169,
+                        561,
+                        201
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                26,
+                                169,
+                                550,
+                                186
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        26,
+                                        169,
+                                        550,
+                                        186
+                                    ],
+                                    "score": 1.0,
+                                    "content": "orchestrating AI agents. While optimized for Gemini and the Google ecosystem, ADK is deployment-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                25,
+                                186,
+                                343,
+                                203
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        25,
+                                        186,
+                                        343,
+                                        203
+                                    ],
+                                    "score": 1.0,
+                                    "content": "agnostic, and built for compatibility with other frameworks .",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 2.5,
+                    "bbox_fs": [
+                        25,
+                        169,
+                        550,
+                        203
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        27,
+                        244,
+                        198,
+                        262
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                25,
+                                244,
+                                200,
+                                261
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        25,
+                                        244,
+                                        200,
+                                        261
+                                    ],
+                                    "score": 1.0,
+                                    "content": "What Makes ADK Different",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        26,
+                        276,
+                        534,
+                        325
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                24,
+                                275,
+                                532,
+                                295
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        24,
+                                        275,
+                                        532,
+                                        295
+                                    ],
+                                    "score": 1.0,
+                                    "content": "ADK was designed to make agent development feel more like software development, enabling",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                25,
+                                294,
+                                534,
+                                310
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        25,
+                                        294,
+                                        534,
+                                        310
+                                    ],
+                                    "score": 1.0,
+                                    "content": "developers to create, deploy, and orchestrate agentic architectures ranging from simple tasks to",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                26,
+                                311,
+                                146,
+                                326
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        26,
+                                        311,
+                                        146,
+                                        326
+                                    ],
+                                    "score": 1.0,
+                                    "content": "complex workflows .",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        }
+                    ],
+                    "index": 6,
+                    "bbox_fs": [
+                        24,
+                        275,
+                        534,
+                        326
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        27,
+                        369,
+                        113,
+                        387
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                25,
+                                367,
+                                114,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        25,
+                                        367,
+                                        114,
+                                        387
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Key Features",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        25,
+                        402,
+                        568,
+                        720
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                25,
+                                402,
+                                568,
+                                720
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        25,
+                                        402,
+                                        568,
+                                        720
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                25,
+                                                402,
+                                                568,
+                                                720
+                                            ],
+                                            "score": 0.982,
+                                            "html": "<table><tr><td colspan=\"1\" rowspan=\"1\">Feature</td><td colspan=\"1\" rowspan=\"1\">Description</td><td colspan=\"1\" rowspan=\"1\">Benefits</td></tr><tr><td colspan=\"1\" rowspan=\"1\">FlexibleOrchestration</td><td colspan=\"1\" rowspan=\"1\">Define workflows using Sequential, Parallel, Loop agents or LLM- Predictable pipelines + adaptivedriven dynamic routing</td><td colspan=\"1\" rowspan=\"1\">behavior</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Multi-Agent Architecture</td><td colspan=\"1\" rowspan=\"1\">Build modular, scalable applications by composing specializedagents in hierarchies</td><td colspan=\"1\" rowspan=\"1\">Complex coordination and delegation</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Rich Tool Ecosystem</td><td colspan=\"1\" rowspan=\"1\">Pre-buit tools, custom functions, 3rd-party libraries, agents-as-tools</td><td colspan=\"1\" rowspan=\"1\">Diverse capabilities and extensibility</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Deployment Ready</td><td colspan=\"1\" rowspan=\"1\">Containerize and deploy anywhere - local, Vertex Al, Cloud Run,Docker</td><td colspan=\"1\" rowspan=\"1\">Production-grade scalability</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Built-in Evaluation</td><td colspan=\"1\" rowspan=\"1\">Assess agent performance on final responses and executiontrajectories</td><td colspan=\"1\" rowspan=\"1\">Systematic testing and validation</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Safe &amp; Secure</td><td colspan=\"1\" rowspan=\"1\">Implement security patterns and best practices in agent design</td><td colspan=\"1\" rowspan=\"1\">Trustworthy, reliableworkflows</td></tr></table>",
+                                            "type": "table",
+                                            "image_path": "d0c5c2f0086f026cfb4ab4826ecba355063966fbadf6e2717ac97ce14b2183be.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 10,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        25,
+                                        402,
+                                        568,
+                                        508.0
+                                    ],
+                                    "spans": [],
+                                    "index": 9
+                                },
+                                {
+                                    "bbox": [
+                                        25,
+                                        508.0,
+                                        568,
+                                        614.0
+                                    ],
+                                    "spans": [],
+                                    "index": 10
+                                },
+                                {
+                                    "bbox": [
+                                        25,
+                                        614.0,
+                                        568,
+                                        720.0
+                                    ],
+                                    "spans": [],
+                                    "index": 11
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10
+                }
+            ]
+        },
+        {
+            "preproc_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        26,
+                        27,
+                        568,
+                        179
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                26,
+                                27,
+                                568,
+                                179
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        26,
+                                        27,
+                                        568,
+                                        179
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                26,
+                                                27,
+                                                568,
+                                                179
+                                            ],
+                                            "score": 0.982,
+                                            "html": "<table><tr><td rowspan=1 colspan=1>Built-in Evaluation</td><td rowspan=1 colspan=1>Assess agent performance on final responses and executiontrajectories</td><td rowspan=1 colspan=1>Systematic testing and validation</td></tr><tr><td rowspan=1 colspan=1>Safe &amp; Secure</td><td rowspan=1 colspan=1>Implement security patterns and best practices in agent design</td><td rowspan=1 colspan=1>Trustworthy, reliableworkflows</td></tr></table>",
+                                            "type": "table",
+                                            "image_path": "b8d0657a7f6e69cc2c89718d89d57de82de2eef459bf93cffb31c7320d84a308.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        26,
+                                        27,
+                                        568,
+                                        77.66666666666666
+                                    ],
+                                    "spans": [],
+                                    "index": 0
+                                },
+                                {
+                                    "bbox": [
+                                        26,
+                                        77.66666666666666,
+                                        568,
+                                        128.33333333333331
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        26,
+                                        128.33333333333331,
+                                        568,
+                                        178.99999999999997
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        26,
+                        221,
+                        117,
+                        241
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                24,
+                                219,
+                                118,
+                                242
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        24,
+                                        219,
+                                        118,
+                                        242
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Agent Types",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        25,
+                        257,
+                        395,
+                        273
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                24,
+                                256,
+                                396,
+                                276
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        24,
+                                        256,
+                                        396,
+                                        276
+                                    ],
+                                    "score": 1.0,
+                                    "content": "ADK provides three core agent categories built on the BaseAgent",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        33,
+                        317,
+                        166,
+                        333
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                32,
+                                316,
+                                166,
+                                336
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        32,
+                                        316,
+                                        166,
+                                        336
+                                    ],
+                                    "score": 1.0,
+                                    "content": "1. LLM Agents (Agent)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        25,
+                        372,
+                        568,
+                        608
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                25,
+                                372,
+                                568,
+                                608
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        25,
+                                        372,
+                                        568,
+                                        608
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                25,
+                                                372,
+                                                568,
+                                                608
+                                            ],
+                                            "score": 0.983,
+                                            "html": "<table><tr><td rowspan=1 colspan=1>Primary Function</td><td rowspan=1 colspan=1>Reasoning, Generation, Tool Use</td></tr><tr><td rowspan=1 colspan=1>Core Engine</td><td rowspan=1 colspan=1>Large Language Model LLM</td></tr><tr><td rowspan=1 colspan=1>Determinism</td><td rowspan=1 colspan=1>Non-deterministic Flexible)</td></tr><tr><td rowspan=1 colspan=1>Primary Use</td><td rowspan=1 colspan=1>Language tasks, Dynamic decisions</td></tr><tr><td rowspan=1 colspan=1>Best For</td><td rowspan=1 colspan=1>Natural language interfaces, complex logic, flexible decision-making</td></tr></table>",
+                                            "type": "table",
+                                            "image_path": "40ed98bf40914e1e2def3758e7ce00ca90ad33aafb6235d4ad51206871a1290f.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 7,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        25,
+                                        372,
+                                        568,
+                                        450.6666666666667
+                                    ],
+                                    "spans": [],
+                                    "index": 6
+                                },
+                                {
+                                    "bbox": [
+                                        25,
+                                        450.6666666666667,
+                                        568,
+                                        529.3333333333334
+                                    ],
+                                    "spans": [],
+                                    "index": 7
+                                },
+                                {
+                                    "bbox": [
+                                        25,
+                                        529.3333333333334,
+                                        568,
+                                        608.0
+                                    ],
+                                    "spans": [],
+                                    "index": 8
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        33,
+                        647,
+                        194,
+                        666
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                30,
+                                646,
+                                189,
+                                667
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        30,
+                                        646,
+                                        189,
+                                        667
+                                    ],
+                                    "score": 1.0,
+                                    "content": "1. Workfl ow Agents",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        27,
+                        678,
+                        141,
+                        757
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                24,
+                                678,
+                                142,
+                                698
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        24,
+                                        678,
+                                        142,
+                                        698
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Sequential Agent",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                24,
+                                708,
+                                117,
+                                729
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        24,
+                                        708,
+                                        117,
+                                        729
+                                    ],
+                                    "score": 1.0,
+                                    "content": "ParallelAgent",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                28,
+                                739,
+                                104,
+                                760
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        28,
+                                        739,
+                                        104,
+                                        760
+                                    ],
+                                    "score": 1.0,
+                                    "content": "LoopAgent",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        }
+                    ],
+                    "index": 11
+                }
+            ],
+            "page_idx": 1,
+            "page_size": [
+                595,
+                841
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        26,
+                        27,
+                        568,
+                        179
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                26,
+                                27,
+                                568,
+                                179
+                            ],
+                            "group_id": 0,
+                            "lines": [],
+                            "index": 1,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        26,
+                                        27,
+                                        568,
+                                        77.66666666666666
+                                    ],
+                                    "spans": [],
+                                    "index": 0
+                                },
+                                {
+                                    "bbox": [
+                                        26,
+                                        77.66666666666666,
+                                        568,
+                                        128.33333333333331
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        26,
+                                        128.33333333333331,
+                                        568,
+                                        178.99999999999997
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                }
+                            ],
+                            "lines_deleted": true
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        26,
+                        221,
+                        117,
+                        241
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                24,
+                                219,
+                                118,
+                                242
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        24,
+                                        219,
+                                        118,
+                                        242
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Agent Types",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        25,
+                        257,
+                        395,
+                        273
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                24,
+                                256,
+                                396,
+                                276
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        24,
+                                        256,
+                                        396,
+                                        276
+                                    ],
+                                    "score": 1.0,
+                                    "content": "ADK provides three core agent categories built on the BaseAgent",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 4,
+                    "bbox_fs": [
+                        24,
+                        256,
+                        396,
+                        276
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        33,
+                        317,
+                        166,
+                        333
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                32,
+                                316,
+                                166,
+                                336
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        32,
+                                        316,
+                                        166,
+                                        336
+                                    ],
+                                    "score": 1.0,
+                                    "content": "1. LLM Agents (Agent)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        }
+                    ],
+                    "index": 5,
+                    "bbox_fs": [
+                        32,
+                        316,
+                        166,
+                        336
+                    ]
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        25,
+                        372,
+                        568,
+                        608
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                25,
+                                372,
+                                568,
+                                608
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        25,
+                                        372,
+                                        568,
+                                        608
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                25,
+                                                372,
+                                                568,
+                                                608
+                                            ],
+                                            "score": 0.983,
+                                            "html": "<table><tr><td rowspan=1 colspan=1>Primary Function</td><td rowspan=1 colspan=1>Reasoning, Generation, Tool Use</td></tr><tr><td rowspan=1 colspan=1>Core Engine</td><td rowspan=1 colspan=1>Large Language Model LLM</td></tr><tr><td rowspan=1 colspan=1>Determinism</td><td rowspan=1 colspan=1>Non-deterministic Flexible)</td></tr><tr><td rowspan=1 colspan=1>Primary Use</td><td rowspan=1 colspan=1>Language tasks, Dynamic decisions</td></tr><tr><td rowspan=1 colspan=1>Best For</td><td rowspan=1 colspan=1>Natural language interfaces, complex logic, flexible decision-making</td></tr></table>",
+                                            "type": "table",
+                                            "image_path": "40ed98bf40914e1e2def3758e7ce00ca90ad33aafb6235d4ad51206871a1290f.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 7,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        25,
+                                        372,
+                                        568,
+                                        450.6666666666667
+                                    ],
+                                    "spans": [],
+                                    "index": 6
+                                },
+                                {
+                                    "bbox": [
+                                        25,
+                                        450.6666666666667,
+                                        568,
+                                        529.3333333333334
+                                    ],
+                                    "spans": [],
+                                    "index": 7
+                                },
+                                {
+                                    "bbox": [
+                                        25,
+                                        529.3333333333334,
+                                        568,
+                                        608.0
+                                    ],
+                                    "spans": [],
+                                    "index": 8
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        33,
+                        647,
+                        194,
+                        666
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                30,
+                                646,
+                                189,
+                                667
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        30,
+                                        646,
+                                        189,
+                                        667
+                                    ],
+                                    "score": 1.0,
+                                    "content": "1. Workfl ow Agents",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        27,
+                        678,
+                        141,
+                        757
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                24,
+                                678,
+                                142,
+                                698
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        24,
+                                        678,
+                                        142,
+                                        698
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Sequential Agent",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                24,
+                                708,
+                                117,
+                                729
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        24,
+                                        708,
+                                        117,
+                                        729
+                                    ],
+                                    "score": 1.0,
+                                    "content": "ParallelAgent",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                28,
+                                739,
+                                104,
+                                760
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        28,
+                                        739,
+                                        104,
+                                        760
+                                    ],
+                                    "score": 1.0,
+                                    "content": "LoopAgent",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        }
+                    ],
+                    "index": 11,
+                    "bbox_fs": [
+                        24,
+                        678,
+                        142,
+                        760
+                    ]
+                }
+            ]
+        },
+        {
+            "preproc_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        25,
+                        26,
+                        568,
+                        261
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                25,
+                                26,
+                                568,
+                                261
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        25,
+                                        26,
+                                        568,
+                                        261
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                25,
+                                                26,
+                                                568,
+                                                261
+                                            ],
+                                            "score": 0.982,
+                                            "html": "<table><tr><td rowspan=1 colspan=1>Primary Function</td><td rowspan=1 colspan=1>Controlling Agent Execution Flow</td></tr><tr><td rowspan=1 colspan=1>Core Engine</td><td rowspan=1 colspan=1>Predefined Logic Sequence, Parallel, Loop)</td></tr><tr><td rowspan=1 colspan=1>Determinism</td><td rowspan=1 colspan=1>Deterministic Predictable)</td></tr><tr><td rowspan=1 colspan=1>Primary Use</td><td rowspan=1 colspan=1>Structured processes, Orchestration</td></tr><tr><td rowspan=1 colspan=1>Best For</td><td rowspan=1 colspan=1>Predictable execution patterns, process control</td></tr></table>",
+                                            "type": "table",
+                                            "image_path": "2f4aee04823727adaf6dc377c6c529c03e6ef4f5bd81e777e35a59251bc9615e.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        25,
+                                        26,
+                                        568,
+                                        104.33333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 0
+                                },
+                                {
+                                    "bbox": [
+                                        25,
+                                        104.33333333333333,
+                                        568,
+                                        182.66666666666666
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        25,
+                                        182.66666666666666,
+                                        568,
+                                        261.0
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        26,
+                        301,
+                        403,
+                        321
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                25,
+                                301,
+                                403,
+                                321
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        25,
+                                        301,
+                                        403,
+                                        321
+                                    ],
+                                    "score": 1.0,
+                                    "content": "LangGraph Agent Integration Challenge with Google ADK",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        34,
+                        336,
+                        375,
+                        369
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                34,
+                                336,
+                                375,
+                                354
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        34,
+                                        336,
+                                        375,
+                                        354
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The Google ADK agent serves as the main orchestrator.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                34,
+                                353,
+                                353,
+                                371
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        34,
+                                        353,
+                                        353,
+                                        371
+                                    ],
+                                    "score": 1.0,
+                                    "content": "A LangGraph agent is integrated into ADK as a tool.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        }
+                    ],
+                    "index": 4.5
+                }
+            ],
+            "page_idx": 2,
+            "page_size": [
+                595,
+                841
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        25,
+                        26,
+                        568,
+                        261
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                25,
+                                26,
+                                568,
+                                261
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        25,
+                                        26,
+                                        568,
+                                        261
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                25,
+                                                26,
+                                                568,
+                                                261
+                                            ],
+                                            "score": 0.982,
+                                            "html": "<table><tr><td rowspan=1 colspan=1>Primary Function</td><td rowspan=1 colspan=1>Controlling Agent Execution Flow</td></tr><tr><td rowspan=1 colspan=1>Core Engine</td><td rowspan=1 colspan=1>Predefined Logic Sequence, Parallel, Loop)</td></tr><tr><td rowspan=1 colspan=1>Determinism</td><td rowspan=1 colspan=1>Deterministic Predictable)</td></tr><tr><td rowspan=1 colspan=1>Primary Use</td><td rowspan=1 colspan=1>Structured processes, Orchestration</td></tr><tr><td rowspan=1 colspan=1>Best For</td><td rowspan=1 colspan=1>Predictable execution patterns, process control</td></tr></table>",
+                                            "type": "table",
+                                            "image_path": "2f4aee04823727adaf6dc377c6c529c03e6ef4f5bd81e777e35a59251bc9615e.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        25,
+                                        26,
+                                        568,
+                                        104.33333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 0
+                                },
+                                {
+                                    "bbox": [
+                                        25,
+                                        104.33333333333333,
+                                        568,
+                                        182.66666666666666
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        25,
+                                        182.66666666666666,
+                                        568,
+                                        261.0
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        26,
+                        301,
+                        403,
+                        321
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                25,
+                                301,
+                                403,
+                                321
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        25,
+                                        301,
+                                        403,
+                                        321
+                                    ],
+                                    "score": 1.0,
+                                    "content": "LangGraph Agent Integration Challenge with Google ADK",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "list",
+                    "bbox": [
+                        34,
+                        336,
+                        375,
+                        369
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                34,
+                                336,
+                                375,
+                                354
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        34,
+                                        336,
+                                        375,
+                                        354
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The Google ADK agent serves as the main orchestrator.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                34,
+                                353,
+                                353,
+                                371
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        34,
+                                        353,
+                                        353,
+                                        371
+                                    ],
+                                    "score": 1.0,
+                                    "content": "A LangGraph agent is integrated into ADK as a tool.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        }
+                    ],
+                    "index": 4.5,
+                    "bbox_fs": [
+                        34,
+                        336,
+                        375,
+                        371
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.6.4"
+}

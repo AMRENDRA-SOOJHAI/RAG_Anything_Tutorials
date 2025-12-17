@@ -1,0 +1,217 @@
+[
+    {
+        "type": "text",
+        "text": "Overview ",
+        "text_level": 1,
+        "bbox": [
+            45,
+            128,
+            156,
+            149
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "GoogleAgentDevelopmentKit ADK)isaflexible,modularframework for developing, deploying, and ",
+        "bbox": [
+            53,
+            167,
+            947,
+            186
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "orchestrating AI agents. While optimized for Gemini and the Google ecosystem, ADK is deploymentagnostic, and built for compatibility with other frameworks . ",
+        "bbox": [
+            45,
+            200,
+            942,
+            239
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "What Makes ADK Different ",
+        "text_level": 1,
+        "bbox": [
+            45,
+            290,
+            332,
+            311
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ADK was designed to make agent development feel more like software development, enabling developers to create, deploy, and orchestrate agentic architectures ranging from simple tasks to complex workflows . ",
+        "bbox": [
+            43,
+            328,
+            897,
+            386
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Features ",
+        "text_level": 1,
+        "bbox": [
+            45,
+            438,
+            189,
+            460
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/d0c5c2f0086f026cfb4ab4826ecba355063966fbadf6e2717ac97ce14b2183be.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"1\" rowspan=\"1\">Feature</td><td colspan=\"1\" rowspan=\"1\">Description</td><td colspan=\"1\" rowspan=\"1\">Benefits</td></tr><tr><td colspan=\"1\" rowspan=\"1\">FlexibleOrchestration</td><td colspan=\"1\" rowspan=\"1\">Define workflows using Sequential, Parallel, Loop agents or LLM- Predictable pipelines + adaptivedriven dynamic routing</td><td colspan=\"1\" rowspan=\"1\">behavior</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Multi-Agent Architecture</td><td colspan=\"1\" rowspan=\"1\">Build modular, scalable applications by composing specializedagents in hierarchies</td><td colspan=\"1\" rowspan=\"1\">Complex coordination and delegation</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Rich Tool Ecosystem</td><td colspan=\"1\" rowspan=\"1\">Pre-buit tools, custom functions, 3rd-party libraries, agents-as-tools</td><td colspan=\"1\" rowspan=\"1\">Diverse capabilities and extensibility</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Deployment Ready</td><td colspan=\"1\" rowspan=\"1\">Containerize and deploy anywhere - local, Vertex Al, Cloud Run,Docker</td><td colspan=\"1\" rowspan=\"1\">Production-grade scalability</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Built-in Evaluation</td><td colspan=\"1\" rowspan=\"1\">Assess agent performance on final responses and executiontrajectories</td><td colspan=\"1\" rowspan=\"1\">Systematic testing and validation</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Safe &amp; Secure</td><td colspan=\"1\" rowspan=\"1\">Implement security patterns and best practices in agent design</td><td colspan=\"1\" rowspan=\"1\">Trustworthy, reliableworkflows</td></tr></table>",
+        "bbox": [
+            42,
+            478,
+            954,
+            856
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "discarded",
+        "text": "GOOGLE-ADK DOCUMENTAIO",
+        "bbox": [
+            43,
+            35,
+            685,
+            68
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            43,
+            32,
+            954,
+            212
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Agent Types ",
+        "text_level": 1,
+        "bbox": [
+            43,
+            262,
+            196,
+            286
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ADK provides three core agent categories built on the BaseAgent ",
+        "bbox": [
+            42,
+            305,
+            663,
+            324
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. LLM Agents (Agent) ",
+        "bbox": [
+            55,
+            376,
+            278,
+            395
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/40ed98bf40914e1e2def3758e7ce00ca90ad33aafb6235d4ad51206871a1290f.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>Primary Function</td><td rowspan=1 colspan=1>Reasoning, Generation, Tool Use</td></tr><tr><td rowspan=1 colspan=1>Core Engine</td><td rowspan=1 colspan=1>Large Language Model LLM</td></tr><tr><td rowspan=1 colspan=1>Determinism</td><td rowspan=1 colspan=1>Non-deterministic Flexible)</td></tr><tr><td rowspan=1 colspan=1>Primary Use</td><td rowspan=1 colspan=1>Language tasks, Dynamic decisions</td></tr><tr><td rowspan=1 colspan=1>Best For</td><td rowspan=1 colspan=1>Natural language interfaces, complex logic, flexible decision-making</td></tr></table>",
+        "bbox": [
+            42,
+            442,
+            954,
+            722
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. Workfl ow Agents ",
+        "text_level": 1,
+        "bbox": [
+            55,
+            769,
+            326,
+            791
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Sequential Agent ParallelAgent LoopAgent ",
+        "bbox": [
+            45,
+            806,
+            236,
+            900
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/2f4aee04823727adaf6dc377c6c529c03e6ef4f5bd81e777e35a59251bc9615e.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>Primary Function</td><td rowspan=1 colspan=1>Controlling Agent Execution Flow</td></tr><tr><td rowspan=1 colspan=1>Core Engine</td><td rowspan=1 colspan=1>Predefined Logic Sequence, Parallel, Loop)</td></tr><tr><td rowspan=1 colspan=1>Determinism</td><td rowspan=1 colspan=1>Deterministic Predictable)</td></tr><tr><td rowspan=1 colspan=1>Primary Use</td><td rowspan=1 colspan=1>Structured processes, Orchestration</td></tr><tr><td rowspan=1 colspan=1>Best For</td><td rowspan=1 colspan=1>Predictable execution patterns, process control</td></tr></table>",
+        "bbox": [
+            42,
+            30,
+            954,
+            310
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "LangGraph Agent Integration Challenge with Google ADK ",
+        "text_level": 1,
+        "bbox": [
+            43,
+            357,
+            677,
+            381
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The Google ADK agent serves as the main orchestrator.   \nA LangGraph agent is integrated into ADK as a tool. ",
+        "bbox": [
+            57,
+            399,
+            630,
+            438
+        ],
+        "page_idx": 2
+    }
+]

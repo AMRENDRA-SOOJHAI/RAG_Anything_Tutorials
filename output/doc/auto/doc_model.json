@@ -1,0 +1,658 @@
+[
+    {
+        "layout_dets": [
+            {
+                "category_id": 5,
+                "poly": [
+                    71,
+                    1119,
+                    1579,
+                    1119,
+                    1579,
+                    2000,
+                    71,
+                    2000
+                ],
+                "score": 0.982,
+                "html": "<table><tr><td rowspan=1 colspan=1>Feature</td><td rowspan=1 colspan=1>Description</td><td rowspan=1 colspan=1>Benefits</td></tr><tr><td rowspan=1 colspan=1>FlexibleOrchestration</td><td rowspan=1 colspan=1>Define workflows using Sequential, Parallel, Loop agents or LLM- Predictable pipelines + adaptivedriven dynamic routing</td><td rowspan=1 colspan=1>behavior</td></tr><tr><td rowspan=1 colspan=1>Multi-Agent Architecture</td><td rowspan=1 colspan=1>Build modular, scalable applications by composing specializedagents in hierarchies</td><td rowspan=1 colspan=1>Complex coordination and delegation</td></tr><tr><td rowspan=1 colspan=1>Rich Tool Ecosystem</td><td rowspan=1 colspan=1>Pre-buit tools, custom functions, 3rd-party libraries, agents-as-tools</td><td rowspan=1 colspan=1>Diverse capabilities and extensibility</td></tr><tr><td rowspan=1 colspan=1>Deployment Ready</td><td rowspan=1 colspan=1>Containerize and deploy anywhere - local, Vertex Al, Cloud Run,Docker</td><td rowspan=1 colspan=1>Production-grade scalability</td></tr></table>"
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    74,
+                    769,
+                    1486,
+                    769,
+                    1486,
+                    904,
+                    74,
+                    904
+                ],
+                "score": 0.973
+            },
+            {
+                "category_id": 0,
+                "poly": [
+                    75,
+                    301,
+                    260,
+                    301,
+                    260,
+                    350,
+                    75,
+                    350
+                ],
+                "score": 0.919
+            },
+            {
+                "category_id": 0,
+                "poly": [
+                    76,
+                    680,
+                    552,
+                    680,
+                    552,
+                    728,
+                    76,
+                    728
+                ],
+                "score": 0.918
+            },
+            {
+                "category_id": 0,
+                "poly": [
+                    75,
+                    1025,
+                    314,
+                    1025,
+                    314,
+                    1075,
+                    75,
+                    1075
+                ],
+                "score": 0.909
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    89,
+                    392,
+                    1567,
+                    392,
+                    1567,
+                    437,
+                    89,
+                    437
+                ],
+                "score": 0.6
+            },
+            {
+                "category_id": 2,
+                "poly": [
+                    74,
+                    85,
+                    1135,
+                    85,
+                    1135,
+                    163,
+                    74,
+                    163
+                ],
+                "score": 0.594
+            },
+            {
+                "category_id": 0,
+                "poly": [
+                    74,
+                    85,
+                    1135,
+                    85,
+                    1135,
+                    163,
+                    74,
+                    163
+                ],
+                "score": 0.427
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    75,
+                    472,
+                    1561,
+                    472,
+                    1561,
+                    561,
+                    75,
+                    561
+                ],
+                "score": 0.27
+            },
+            {
+                "category_id": 13,
+                "poly": [
+                    1374,
+                    1283,
+                    1398,
+                    1283,
+                    1398,
+                    1306,
+                    1374,
+                    1306
+                ],
+                "score": 0.75,
+                "latex": "^ +"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    70.0,
+                    296.0,
+                    267.0,
+                    296.0,
+                    267.0,
+                    351.0,
+                    70.0,
+                    351.0
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    72.0,
+                    679.0,
+                    557.0,
+                    679.0,
+                    557.0,
+                    726.0,
+                    72.0,
+                    726.0
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    70.0,
+                    1021.0,
+                    318.0,
+                    1021.0,
+                    318.0,
+                    1077.0,
+                    70.0,
+                    1077.0
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    68.0,
+                    84.0,
+                    1139.0,
+                    84.0,
+                    1139.0,
+                    169.0,
+                    68.0,
+                    169.0
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    68.0,
+                    84.0,
+                    1139.0,
+                    84.0,
+                    1139.0,
+                    169.0,
+                    68.0,
+                    169.0
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    67.0,
+                    766.0,
+                    1479.0,
+                    766.0,
+                    1479.0,
+                    820.0,
+                    67.0,
+                    820.0
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    71.0,
+                    817.0,
+                    1484.0,
+                    817.0,
+                    1484.0,
+                    863.0,
+                    71.0,
+                    863.0
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    73.0,
+                    864.0,
+                    407.0,
+                    864.0,
+                    407.0,
+                    907.0,
+                    73.0,
+                    907.0
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    77.0,
+                    389.0,
+                    1576.0,
+                    389.0,
+                    1576.0,
+                    445.0,
+                    77.0,
+                    445.0
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    73.0,
+                    472.0,
+                    1530.0,
+                    472.0,
+                    1530.0,
+                    518.0,
+                    73.0,
+                    518.0
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    70.0,
+                    519.0,
+                    953.0,
+                    519.0,
+                    953.0,
+                    564.0,
+                    70.0,
+                    564.0
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1655,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "category_id": 5,
+                "poly": [
+                    72,
+                    1035,
+                    1580,
+                    1035,
+                    1580,
+                    1690,
+                    72,
+                    1690
+                ],
+                "score": 0.983,
+                "html": "<table><tr><td rowspan=1 colspan=1>Primary Function</td><td rowspan=1 colspan=1>Reasoning, Generation, Tool Use</td></tr><tr><td rowspan=1 colspan=1>Core Engine</td><td rowspan=1 colspan=1>Large Language Model LLM</td></tr><tr><td rowspan=1 colspan=1>Determinism</td><td rowspan=1 colspan=1>Non-deterministic Flexible)</td></tr><tr><td rowspan=1 colspan=1>Primary Use</td><td rowspan=1 colspan=1>Language tasks, Dynamic decisions</td></tr><tr><td rowspan=1 colspan=1>Best For</td><td rowspan=1 colspan=1>Natural language interfaces, complex logic, flexible decision-making</td></tr></table>"
+            },
+            {
+                "category_id": 5,
+                "poly": [
+                    73,
+                    75,
+                    1579,
+                    75,
+                    1579,
+                    499,
+                    73,
+                    499
+                ],
+                "score": 0.982,
+                "html": "<table><tr><td rowspan=1 colspan=1>Built-in Evaluation</td><td rowspan=1 colspan=1>Assess agent performance on final responses and executiontrajectories</td><td rowspan=1 colspan=1>Systematic testing and validation</td></tr><tr><td rowspan=1 colspan=1>Safe &amp; Secure</td><td rowspan=1 colspan=1>Implement security patterns and best practices in agent design</td><td rowspan=1 colspan=1>Trustworthy, reliableworkflows</td></tr></table>"
+            },
+            {
+                "category_id": 0,
+                "poly": [
+                    74,
+                    615,
+                    325,
+                    615,
+                    325,
+                    671,
+                    74,
+                    671
+                ],
+                "score": 0.921
+            },
+            {
+                "category_id": 0,
+                "poly": [
+                    94,
+                    1799,
+                    541,
+                    1799,
+                    541,
+                    1851,
+                    94,
+                    1851
+                ],
+                "score": 0.906
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    71,
+                    714,
+                    1098,
+                    714,
+                    1098,
+                    761,
+                    71,
+                    761
+                ],
+                "score": 0.873
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    75,
+                    1885,
+                    393,
+                    1885,
+                    393,
+                    2105,
+                    75,
+                    2105
+                ],
+                "score": 0.822
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    93,
+                    882,
+                    462,
+                    882,
+                    462,
+                    925,
+                    93,
+                    925
+                ],
+                "score": 0.733
+            },
+            {
+                "category_id": 0,
+                "poly": [
+                    93,
+                    882,
+                    462,
+                    882,
+                    462,
+                    925,
+                    93,
+                    925
+                ],
+                "score": 0.207
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    68.0,
+                    609.0,
+                    329.0,
+                    609.0,
+                    329.0,
+                    674.0,
+                    68.0,
+                    674.0
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    86.0,
+                    1796.0,
+                    526.0,
+                    1796.0,
+                    526.0,
+                    1853.0,
+                    86.0,
+                    1853.0
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    89.0,
+                    880.0,
+                    462.0,
+                    880.0,
+                    462.0,
+                    934.0,
+                    89.0,
+                    934.0
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    69.0,
+                    712.0,
+                    1101.0,
+                    712.0,
+                    1101.0,
+                    767.0,
+                    69.0,
+                    767.0
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    69.0,
+                    1884.0,
+                    397.0,
+                    1884.0,
+                    397.0,
+                    1940.0,
+                    69.0,
+                    1940.0
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    69.0,
+                    1967.0,
+                    326.0,
+                    1967.0,
+                    326.0,
+                    2027.0,
+                    69.0,
+                    2027.0
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    80.0,
+                    2054.0,
+                    291.0,
+                    2054.0,
+                    291.0,
+                    2112.0,
+                    80.0,
+                    2112.0
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    89.0,
+                    880.0,
+                    462.0,
+                    880.0,
+                    462.0,
+                    934.0,
+                    89.0,
+                    934.0
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 1,
+            "width": 1655,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "category_id": 5,
+                "poly": [
+                    71,
+                    74,
+                    1580,
+                    74,
+                    1580,
+                    726,
+                    71,
+                    726
+                ],
+                "score": 0.982,
+                "html": "<table><tr><td rowspan=1 colspan=1>Primary Function</td><td rowspan=1 colspan=1>Controlling Agent Execution Flow</td></tr><tr><td rowspan=1 colspan=1>Core Engine</td><td rowspan=1 colspan=1>Predefined Logic Sequence, Parallel, Loop)</td></tr><tr><td rowspan=1 colspan=1>Determinism</td><td rowspan=1 colspan=1>Deterministic Predictable)</td></tr><tr><td rowspan=1 colspan=1>Primary Use</td><td rowspan=1 colspan=1>Structured processes, Orchestration</td></tr><tr><td rowspan=1 colspan=1>Best For</td><td rowspan=1 colspan=1>Predictable execution patterns, process control</td></tr></table>"
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    96,
+                    935,
+                    1042,
+                    935,
+                    1042,
+                    1027,
+                    96,
+                    1027
+                ],
+                "score": 0.973
+            },
+            {
+                "category_id": 0,
+                "poly": [
+                    74,
+                    838,
+                    1121,
+                    838,
+                    1121,
+                    892,
+                    74,
+                    892
+                ],
+                "score": 0.927
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    71.0,
+                    837.0,
+                    1122.0,
+                    837.0,
+                    1122.0,
+                    893.0,
+                    71.0,
+                    893.0
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    95.0,
+                    934.0,
+                    1043.0,
+                    934.0,
+                    1043.0,
+                    984.0,
+                    95.0,
+                    984.0
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    95.0,
+                    981.0,
+                    981.0,
+                    981.0,
+                    981.0,
+                    1031.0,
+                    95.0,
+                    1031.0
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 2,
+            "width": 1655,
+            "height": 2339
+        }
+    }
+]

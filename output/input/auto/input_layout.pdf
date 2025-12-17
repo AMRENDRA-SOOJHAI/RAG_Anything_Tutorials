@@ -1,0 +1,1121 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 2
+/Kids [ 4 0 R 8 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.276 841.89 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.3
+>>
+/gRLs1 <<
+/ca 1
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/CropBox [ 0 0 595.276 841.89 ]
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 10398
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 78 727.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL (Artificial Intelligence \(AI\) grew from deep mathematical ideas into practical systems that now shape) Tj T* (how we interact with the digital world \227 recommending what to watch, helping us find the right) Tj T* (documents, and powering chatbots that feel genuinely contextual and helpful.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 724.8898 cm
+Q
+q
+1 0 0 1 78 676.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL (The throughline is simple yet powerful: represent meaning as vectors, compare them efficiently,) Tj T* (and stitch results together using reasoning and product logic. What began as abstract theory has) Tj T* (become the backbone of personalization, automation, and intelligent decision-making across) Tj T* (industries.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 673.8898 cm
+Q
+q
+1 0 0 1 78 661.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The 1956 turning point) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 658.8898 cm
+Q
+q
+1 0 0 1 78 598.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL (AI became a formal academic discipline at the Dartmouth Workshop in 1956, marking a defining) Tj T* (moment that transformed curiosity into a scientific pursuit. This conference gathered brilliant minds) Tj T* (who envisioned machines that could \223think.\224 It laid the foundation for decades of exploration in) Tj T* (search, knowledge representation, learning, and perception \227 ideas that evolved into today\222s deep) Tj T* (learning systems.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 595.8898 cm
+Q
+q
+1 0 0 1 78 571.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (That milestone clarified AI as an independent field, connected yet distinct from mathematics,) Tj T* (psychology, linguistics, and computer engineering.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 568.8898 cm
+Q
+q
+1 0 0 1 78 544.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (John McCarthy: Coined the term "Artificial Intelligence", and pioneered symbolic reasoning and) Tj T* (time-sharing in computing.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 541.8898 cm
+Q
+q
+1 0 0 1 78 529.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Marvin Minsky: Cofounded the MIT AI Lab, advancing early robotics and cognitive models.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 526.8898 cm
+Q
+q
+1 0 0 1 78 502.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Geoffrey Hinton: Reimagined the potential of neural networks, fueling the modern deep learning) Tj T* (revolution that underpins today\222s perception and language models.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 499.8898 cm
+Q
+q
+1 0 0 1 78 475.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Alan Turing \(the precursor\): Introduced the theory of computation and the Turing Test, establishing) Tj T* (the philosophical and mathematical roots of machine intelligence.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 472.8898 cm
+Q
+q
+1 0 0 1 78 460.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (From meaning to math: embeddings) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 457.8898 cm
+Q
+q
+1 0 0 1 78 409.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL (At the heart of modern AI lies a mathematical insight \227 that meaning can be represented as) Tj T* (vectors in high-dimensional space. Words, images, audio, code snippets, and even users\222) Tj T* (preferences are transformed into embeddings \227 dense numerical representations that capture) Tj T* (context and relationships.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 406.8898 cm
+Q
+q
+1 0 0 1 78 394.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (In this space, closeness reflects similarity:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 391.8898 cm
+Q
+q
+1 0 0 1 78 379.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Words with related meanings appear near each other.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 376.8898 cm
+Q
+q
+1 0 0 1 78 364.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Images that share visual features cluster together.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 361.8898 cm
+Q
+q
+1 0 0 1 78 349.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Products that align with user behavior reside in the same neighborhood.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 346.8898 cm
+Q
+q
+1 0 0 1 78 310.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL (This vectorized understanding of the world enables systems to retrieve \223what you meant\224 instead of) Tj T* (\223what you typed.\224 It powers semantic search, question answering, recommendation systems, and) Tj T* (personalized interactions \227 the essence of human-like intelligence in digital systems.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 307.8898 cm
+Q
+q
+1 0 0 1 78 295.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Why vector databases matter) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 292.8898 cm
+Q
+q
+1 0 0 1 78 256.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL (As embeddings grew larger and datasets expanded into billions of items, traditional databases) Tj T* (became inefficient for similarity-based retrieval. Enter the vector database \227 a system) Tj T* (purpose-built for storing and searching high-dimensional vectors with sub-second speed.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 253.8898 cm
+Q
+q
+1 0 0 1 78 229.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Vector databases make Approximate Nearest Neighbor \(ANN\) searches feasible at scale. They) Tj T* (combine:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 226.8898 cm
+Q
+q
+1 0 0 1 78 214.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (High-speed vector indexing for semantic similarity.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 211.8898 cm
+Q
+q
+1 0 0 1 78 199.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Metadata filters for structured constraints.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 196.8898 cm
+Q
+q
+1 0 0 1 78 184.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Hybrid queries that blend keyword and semantic relevance.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 181.8898 cm
+Q
+q
+1 0 0 1 78 157.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (This allows applications to find not only the exact matches but the most meaningfully similar) Tj T* (content, balancing precision and recall.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 154.8898 cm
+Q
+q
+1 0 0 1 78 130.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Systems like Milvus, Pinecone, and FAISS now power production-grade pipelines for search,) Tj T* (recommendation, retrieval-augmented generation \(RAG\), and multimodal AI.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 127.8898 cm
+Q
+q
+1 0 0 1 78 115.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (AI today: the fusion of models and memory) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 112.8898 cm
+Q
+q
+1 0 0 1 78 88.88976 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Modern AI systems no longer rely solely on trained models. Instead, they combine vector) Tj T* (embeddings, retrieval mechanisms, and large language models \(LLMs\) to dynamically ground) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.276 841.89 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.6 0 0.298039 rg
+/gRLs0 gs
+n
+77 727.89 439 36 re
+f*
+0.6 0 0.298039 rg
+n
+77 677.89 432 47 re
+f*
+0.6 0 0.298039 rg
+n
+77 660.89 102 13 re
+f*
+0.6 0 0.298039 rg
+n
+77 598.89 439 60 re
+f*
+0.6 0 0.298039 rg
+n
+76 570.89 412 25 re
+f*
+0.6 0 0.298039 rg
+n
+77 543.89 420 25 re
+f*
+0.6 0 0.298039 rg
+n
+79 529.89 400 12 re
+f*
+0.6 0 0.298039 rg
+n
+76 502.89 428 24 re
+f*
+0.6 0 0.298039 rg
+n
+77 475.89 436 24 re
+f*
+0.6 0 0.298039 rg
+n
+78 460.89 161 12 re
+f*
+0.6 0 0.298039 rg
+n
+77 409.89 421 48 re
+f*
+0.6 0 0.298039 rg
+n
+78 394.89 185 12 re
+f*
+0.6 0 0.298039 rg
+n
+77 379.89 239 12 re
+f*
+0.6 0 0.298039 rg
+n
+77 364.89 221 12 re
+f*
+0.6 0 0.298039 rg
+n
+77 349.89 319 12 re
+f*
+0.6 0 0.298039 rg
+n
+76 310.89 440 35 re
+f*
+0.6 0 0.298039 rg
+n
+77 295.89 132 12 re
+f*
+0.6 0 0.298039 rg
+n
+78 256.89 419 36 re
+f*
+0.6 0 0.298039 rg
+n
+77 229.89 425 24 re
+f*
+0.6 0 0.298039 rg
+n
+79 214.89 221 12 re
+f*
+0.6 0 0.298039 rg
+n
+78 199.89 184 11 re
+f*
+0.6 0 0.298039 rg
+n
+77 184.89 265 12 re
+f*
+0.6 0 0.298039 rg
+n
+76 157.89 410 24 re
+f*
+0.6 0 0.298039 rg
+n
+75 129.89 413 25 re
+f*
+0.6 0 0.298039 rg
+n
+77 115.89 192 12 re
+f*
+0.6 0 0.298039 rg
+n
+76 87.89 419 25 re
+f*
+1 0 0 rg
+/gRLs1 gs
+BT
+/F1-0 10 Tf
+14.4 TL
+ET
+q
+1 0 0 1 518 753.89 cm
+BT
+1 0 0 1 0 0 Tm
+(1) Tj
+T*
+ET
+Q
+1 0 0 rg
+BT
+/F1-0 10 Tf
+14.4 TL
+ET
+q
+1 0 0 1 511 714.89 cm
+BT
+1 0 0 1 0 0 Tm
+(2) Tj
+T*
+ET
+Q
+1 0 0 rg
+BT
+/F1-0 10 Tf
+14.4 TL
+ET
+q
+1 0 0 1 181 663.89 cm
+BT
+1 0 0 1 0 0 Tm
+(3) Tj
+T*
+ET
+Q
+1 0 0 rg
+BT
+/F1-0 10 Tf
+14.4 TL
+ET
+q
+1 0 0 1 518 648.89 cm
+BT
+1 0 0 1 0 0 Tm
+(4) Tj
+T*
+ET
+Q
+1 0 0 rg
+BT
+/F1-0 10 Tf
+14.4 TL
+ET
+q
+1 0 0 1 490 585.89 cm
+BT
+1 0 0 1 0 0 Tm
+(5) Tj
+T*
+ET
+Q
+1 0 0 rg
+BT
+/F1-0 10 Tf
+14.4 TL
+ET
+q
+1 0 0 1 499 558.89 cm
+BT
+1 0 0 1 0 0 Tm
+(6) Tj
+T*
+ET
+Q
+1 0 0 rg
+BT
+/F1-0 10 Tf
+14.4 TL
+ET
+q
+1 0 0 1 481 531.89 cm
+BT
+1 0 0 1 0 0 Tm
+(7) Tj
+T*
+ET
+Q
+1 0 0 rg
+BT
+/F1-0 10 Tf
+14.4 TL
+ET
+q
+1 0 0 1 506 516.89 cm
+BT
+1 0 0 1 0 0 Tm
+(8) Tj
+T*
+ET
+Q
+1 0 0 rg
+BT
+/F1-0 10 Tf
+14.4 TL
+ET
+q
+1 0 0 1 515 489.89 cm
+BT
+1 0 0 1 0 0 Tm
+(9) Tj
+T*
+ET
+Q
+1 0 0 rg
+BT
+/F1-0 10 Tf
+14.4 TL
+ET
+q
+1 0 0 1 241 462.89 cm
+BT
+1 0 0 1 0 0 Tm
+(10) Tj
+T*
+ET
+Q
+1 0 0 rg
+BT
+/F1-0 10 Tf
+14.4 TL
+ET
+q
+1 0 0 1 500 447.89 cm
+BT
+1 0 0 1 0 0 Tm
+(11) Tj
+T*
+ET
+Q
+1 0 0 rg
+BT
+/F1-0 10 Tf
+14.4 TL
+ET
+q
+1 0 0 1 265 396.89 cm
+BT
+1 0 0 1 0 0 Tm
+(12) Tj
+T*
+ET
+Q
+1 0 0 rg
+BT
+/F1-0 10 Tf
+14.4 TL
+ET
+q
+1 0 0 1 318 381.89 cm
+BT
+1 0 0 1 0 0 Tm
+(13) Tj
+T*
+ET
+Q
+1 0 0 rg
+BT
+/F1-0 10 Tf
+14.4 TL
+ET
+q
+1 0 0 1 300 366.89 cm
+BT
+1 0 0 1 0 0 Tm
+(14) Tj
+T*
+ET
+Q
+1 0 0 rg
+BT
+/F1-0 10 Tf
+14.4 TL
+ET
+q
+1 0 0 1 398 351.89 cm
+BT
+1 0 0 1 0 0 Tm
+(15) Tj
+T*
+ET
+Q
+1 0 0 rg
+BT
+/F1-0 10 Tf
+14.4 TL
+ET
+q
+1 0 0 1 518 335.89 cm
+BT
+1 0 0 1 0 0 Tm
+(16) Tj
+T*
+ET
+Q
+1 0 0 rg
+BT
+/F1-0 10 Tf
+14.4 TL
+ET
+q
+1 0 0 1 211 297.89 cm
+BT
+1 0 0 1 0 0 Tm
+(17) Tj
+T*
+ET
+Q
+1 0 0 rg
+BT
+/F1-0 10 Tf
+14.4 TL
+ET
+q
+1 0 0 1 499 282.89 cm
+BT
+1 0 0 1 0 0 Tm
+(18) Tj
+T*
+ET
+Q
+1 0 0 rg
+BT
+/F1-0 10 Tf
+14.4 TL
+ET
+q
+1 0 0 1 504 243.89 cm
+BT
+1 0 0 1 0 0 Tm
+(19) Tj
+T*
+ET
+Q
+1 0 0 rg
+BT
+/F1-0 10 Tf
+14.4 TL
+ET
+q
+1 0 0 1 302 216.89 cm
+BT
+1 0 0 1 0 0 Tm
+(20) Tj
+T*
+ET
+Q
+1 0 0 rg
+BT
+/F1-0 10 Tf
+14.4 TL
+ET
+q
+1 0 0 1 264 200.89 cm
+BT
+1 0 0 1 0 0 Tm
+(21) Tj
+T*
+ET
+Q
+1 0 0 rg
+BT
+/F1-0 10 Tf
+14.4 TL
+ET
+q
+1 0 0 1 344 186.89 cm
+BT
+1 0 0 1 0 0 Tm
+(22) Tj
+T*
+ET
+Q
+1 0 0 rg
+BT
+/F1-0 10 Tf
+14.4 TL
+ET
+q
+1 0 0 1 488 171.89 cm
+BT
+1 0 0 1 0 0 Tm
+(23) Tj
+T*
+ET
+Q
+1 0 0 rg
+BT
+/F1-0 10 Tf
+14.4 TL
+ET
+q
+1 0 0 1 490 144.89 cm
+BT
+1 0 0 1 0 0 Tm
+(24) Tj
+T*
+ET
+Q
+1 0 0 rg
+BT
+/F1-0 10 Tf
+14.4 TL
+ET
+q
+1 0 0 1 271 117.89 cm
+BT
+1 0 0 1 0 0 Tm
+(25) Tj
+T*
+ET
+Q
+1 0 0 rg
+BT
+/F1-0 10 Tf
+14.4 TL
+ET
+q
+1 0 0 1 497 102.89 cm
+BT
+1 0 0 1 0 0 Tm
+(26) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/Contents 9 0 R
+/MediaBox [ 0 0 595.276 841.89 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.3
+>>
+/gRLs1 <<
+/ca 1
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/CropBox [ 0 0 595.276 841.89 ]
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+9 0 obj
+<<
+/Length 3760
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 78 751.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (responses in facts and context.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 748.8898 cm
+Q
+q
+1 0 0 1 78 724.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (RAG \(Retrieval-Augmented Generation\) connects language models to external knowledge bases,) Tj T* (making chatbots accurate and domain-aware.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 721.8898 cm
+Q
+q
+1 0 0 1 78 697.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Hybrid search merges symbolic and semantic understanding \227 a union of the old and new schools) Tj T* (of AI.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 694.8898 cm
+Q
+q
+1 0 0 1 78 670.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Real-time personalization ensures user interactions evolve continuously based on contextual) Tj T* (embeddings and behavioral signals.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 667.8898 cm
+Q
+q
+1 0 0 1 78 643.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (This fusion of reasoning, retrieval, and representation is what makes modern applications personal,) Tj T* (relevant, and responsive.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 640.8898 cm
+Q
+q
+1 0 0 1 78 628.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The road ahead) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 625.8898 cm
+Q
+q
+1 0 0 1 78 589.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL (AI continues to evolve from static intelligence to contextual, memory-driven systems that learn) Tj T* (continuously. With advances in multimodal embeddings \227 connecting text, images, audio, and) Tj T* (video \227 machines are learning to understand the world more like humans do.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 586.8898 cm
+Q
+q
+1 0 0 1 78 562.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Vector databases will remain the core infrastructure of intelligent systems, enabling efficient) Tj T* (storage, retrieval, and reasoning over the ever-growing universe of human knowledge.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 559.8898 cm
+Q
+q
+1 0 0 1 78 511.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL (In essence, the journey from symbols to vectors marks not just a technological shift but a) Tj T* (philosophical one \227 from hard-coded logic to emergent understanding. The future of AI will be built) Tj T* (not merely on code, but on representations of meaning, organized and made accessible through) Tj T* (the mathematics of similarity.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 508.8898 cm
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.276 841.89 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.6 0 0.298039 rg
+/gRLs0 gs
+n
+77 751.89 139 12 re
+f*
+0.6 0 0.298039 rg
+n
+77 724.89 437 24 re
+f*
+0.6 0 0.298039 rg
+n
+76 697.89 440 24 re
+f*
+0.6 0 0.298039 rg
+n
+78 670.89 417 24 re
+f*
+0.6 0 0.298039 rg
+n
+76 643.89 440 24 re
+f*
+0.6 0 0.298039 rg
+n
+77 628.89 73 12 re
+f*
+0.6 0 0.298039 rg
+n
+77 589.89 423 36 re
+f*
+0.6 0 0.298039 rg
+n
+74 562.89 410 24 re
+f*
+0.6 0 0.298039 rg
+n
+77 511.89 440 48 re
+f*
+1 0 0 rg
+/gRLs1 gs
+BT
+/F1-0 10 Tf
+14.4 TL
+ET
+q
+1 0 0 1 218 753.89 cm
+BT
+1 0 0 1 0 0 Tm
+(1) Tj
+T*
+ET
+Q
+1 0 0 rg
+BT
+/F1-0 10 Tf
+14.4 TL
+ET
+q
+1 0 0 1 516 738.89 cm
+BT
+1 0 0 1 0 0 Tm
+(2) Tj
+T*
+ET
+Q
+1 0 0 rg
+BT
+/F1-0 10 Tf
+14.4 TL
+ET
+q
+1 0 0 1 518 711.89 cm
+BT
+1 0 0 1 0 0 Tm
+(3) Tj
+T*
+ET
+Q
+1 0 0 rg
+BT
+/F1-0 10 Tf
+14.4 TL
+ET
+q
+1 0 0 1 497 684.89 cm
+BT
+1 0 0 1 0 0 Tm
+(4) Tj
+T*
+ET
+Q
+1 0 0 rg
+BT
+/F1-0 10 Tf
+14.4 TL
+ET
+q
+1 0 0 1 518 657.89 cm
+BT
+1 0 0 1 0 0 Tm
+(5) Tj
+T*
+ET
+Q
+1 0 0 rg
+BT
+/F1-0 10 Tf
+14.4 TL
+ET
+q
+1 0 0 1 152 630.89 cm
+BT
+1 0 0 1 0 0 Tm
+(6) Tj
+T*
+ET
+Q
+1 0 0 rg
+BT
+/F1-0 10 Tf
+14.4 TL
+ET
+q
+1 0 0 1 502 615.89 cm
+BT
+1 0 0 1 0 0 Tm
+(7) Tj
+T*
+ET
+Q
+1 0 0 rg
+BT
+/F1-0 10 Tf
+14.4 TL
+ET
+q
+1 0 0 1 486 576.89 cm
+BT
+1 0 0 1 0 0 Tm
+(8) Tj
+T*
+ET
+Q
+1 0 0 rg
+BT
+/F1-0 10 Tf
+14.4 TL
+ET
+q
+1 0 0 1 519 549.89 cm
+BT
+1 0 0 1 0 0 Tm
+(9) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 11
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000119 00000 n 
+0000000168 00000 n 
+0000000487 00000 n 
+0000010938 00000 n 
+0000011045 00000 n 
+0000011152 00000 n 
+0000011472 00000 n 
+0000015284 00000 n 
+trailer
+<<
+/Size 11
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+15392
+%%EOF
